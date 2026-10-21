@@ -1,7 +1,7 @@
-// Builds test/playlist.m3u and test/epg.xml. The guide is regenerated daily by .github/workflows/guide.yml
-// so the programmes are always around "now". Only official test streams and CC-BY Blender films are used.
+// Builds test/playlist.m3u and test/guide-channels.json. test/epg.php serves the TV guide live, always around "now".
+// Only official test streams and CC-BY Blender films are used.
 const fs = require('fs');
-const BASE = 'https://tugayakin.github.io/merin-player';
+const BASE = process.env.BASE || 'https://merintta.com/merin-player';
 const S = {
   bbb: 'https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8',                        // Big Buck Bunny (CC BY 3.0, Blender Foundation), Mux test stream
   tos: 'https://test-streams.mux.dev/tos_ismc/main.m3u8',                          // Tears of Steel (CC BY 3.0, Blender Foundation), Mux test stream
@@ -31,11 +31,5 @@ SERIES.forEach(([show, p, g, eps]) => eps.forEach(([se, ep, t]) => {
 }));
 fs.writeFileSync('test/playlist.m3u', m);
 
-const H = 3600e3, now = Date.now(), start = Math.floor(now / H) * H - 6 * H;
-const stamp = ms => new Date(ms).toISOString().replace(/[-:T]/g, '').slice(0, 14) + ' +0000';
-const TITLES = ['Morning Edition', 'Market Watch', 'Garden Hour', 'Weekend Sport', 'The Late Show', 'World Tonight', 'Cartoon Club', 'Nature Files', 'Studio Live', 'Top Twenty'];
-let x = '<?xml version="1.0" encoding="UTF-8"?>\n<tv generator-info-name="merin-player test guide">\n';
-LIVE.forEach(([, n, id]) => { x += `  <channel id="${id}.merin"><display-name>${n.replace(/^\w+: /, '').replace(/ (FHD|HD)$/, '')}</display-name></channel>\n`; });
-LIVE.forEach(([, , id], i) => { for (let k = 0; k < 36; k++) { const s = start + k * H; x += `  <programme channel="${id}.merin" start="${stamp(s)}" stop="${stamp(s + H)}"><title>${TITLES[(i + k) % TITLES.length]}</title><desc>Test programme for Merin Player.</desc></programme>\n`; } });
-fs.writeFileSync('test/epg.xml', x + '</tv>\n');
-console.log('playlist:', LIVE.length, 'channels,', MOVIES.length, 'movies,', SERIES.reduce((a, s) => a + s[3].length, 0), 'episodes; guide: 36 hours from', new Date(start).toISOString());
+fs.writeFileSync('test/guide-channels.json', JSON.stringify(LIVE.map(([, n, id]) => ({ id: id + '.merin', name: n.replace(/^\w+: /, '').replace(/ (FHD|HD)$/, '') }))));
+console.log('playlist:', LIVE.length, 'channels,', MOVIES.length, 'movies,', SERIES.reduce((a, s) => a + s[3].length, 0), 'episodes; guide channels written');

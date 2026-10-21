@@ -1,0 +1,24 @@
+# Merin Player pages on merintta.com/merin-player/
+Options -Indexes
+RewriteEngine On
+# the guide is generated live, but stays reachable at the usual XMLTV address
+RewriteRule ^test/epg\.xml$ test/epg.php [L]
+# clean addresses: /merin-player/privacy -> privacy.html
+RewriteCond %{REQUEST_FILENAME} !-f
+RewriteCond %{REQUEST_FILENAME}.html -f
+RewriteRule ^(.+?)/?$ $1.html [L]
+# old .html links go to the clean address
+RewriteCond %{THE_REQUEST} \s/+merin-player/(privacy)\.html[\s?] [NC]
+RewriteRule ^ /merin-player/%1 [R=301,L]
+
+AddType audio/x-mpegurl .m3u
+AddType video/mp4 .mp4
+AddType image/svg+xml .svg
+<IfModule mod_headers.c>
+  <FilesMatch "\.(m3u|xml|php|svg|mp4|png)$">
+    Header set Access-Control-Allow-Origin "*"
+  </FilesMatch>
+</IfModule>
+# tools and sources are not part of the site
+RewriteRule ^(tools|\.git|\.github)(/|$) - [F,L]
+RewriteRule ^(README\.md|test/guide-channels\.json)$ - [F,L]

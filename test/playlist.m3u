@@ -1,45 +1,45 @@
-#EXTM3U x-tvg-url="https://tugayakin.github.io/merin-player/test/epg.xml"
-#EXTINF:-1 tvg-id="p1.merin" tvg-logo="https://tugayakin.github.io/merin-player/test/logos/p1.svg" group-title="Netherlands - Algemeen",NL: Polder One HD
+#EXTM3U x-tvg-url="https://merintta.com/merin-player/test/epg.xml"
+#EXTINF:-1 tvg-id="p1.merin" tvg-logo="https://merintta.com/merin-player/test/logos/p1.svg" group-title="Netherlands - Algemeen",NL: Polder One HD
 https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8
-#EXTINF:-1 tvg-id="nn.merin" tvg-logo="https://tugayakin.github.io/merin-player/test/logos/nn.svg" group-title="Netherlands - Nieuws",NL: Northwind News FHD
+#EXTINF:-1 tvg-id="nn.merin" tvg-logo="https://merintta.com/merin-player/test/logos/nn.svg" group-title="Netherlands - Nieuws",NL: Northwind News FHD
 https://devstreaming-cdn.apple.com/videos/streaming/examples/bipbop_16x9/bipbop_16x9_variant.m3u8
-#EXTINF:-1 tvg-id="hs.merin" tvg-logo="https://tugayakin.github.io/merin-player/test/logos/hs.svg" group-title="Netherlands - Sport",NL: Harbor Sports 1 FHD
+#EXTINF:-1 tvg-id="hs.merin" tvg-logo="https://merintta.com/merin-player/test/logos/hs.svg" group-title="Netherlands - Sport",NL: Harbor Sports 1 FHD
 https://test-streams.mux.dev/tos_ismc/main.m3u8
-#EXTINF:-1 tvg-id="mk.merin" tvg-logo="https://tugayakin.github.io/merin-player/test/logos/mk.svg" group-title="Netherlands - Kinderen",NL: Maple Kids HD
+#EXTINF:-1 tvg-id="mk.merin" tvg-logo="https://merintta.com/merin-player/test/logos/mk.svg" group-title="Netherlands - Kinderen",NL: Maple Kids HD
 https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8
-#EXTINF:-1 tvg-id="lc.merin" tvg-logo="https://tugayakin.github.io/merin-player/test/logos/lc.svg" group-title="Netherlands - Films en Series",NL: Lantern Cinema FHD
+#EXTINF:-1 tvg-id="lc.merin" tvg-logo="https://merintta.com/merin-player/test/logos/lc.svg" group-title="Netherlands - Films en Series",NL: Lantern Cinema FHD
 https://test-streams.mux.dev/tos_ismc/main.m3u8
-#EXTINF:-1 tvg-id="td.merin" tvg-logo="https://tugayakin.github.io/merin-player/test/logos/td.svg" group-title="Netherlands - Documentaires",NL: Tundra Docs HD
+#EXTINF:-1 tvg-id="td.merin" tvg-logo="https://merintta.com/merin-player/test/logos/td.svg" group-title="Netherlands - Documentaires",NL: Tundra Docs HD
 https://test-streams.mux.dev/pts_shift/master.m3u8
-#EXTINF:-1 tvg-id="bt.merin" tvg-logo="https://tugayakin.github.io/merin-player/test/logos/bt.svg" group-title="Türkiye - Ulusal",TR: Boğaz TV HD
+#EXTINF:-1 tvg-id="bt.merin" tvg-logo="https://merintta.com/merin-player/test/logos/bt.svg" group-title="Türkiye - Ulusal",TR: Boğaz TV HD
 https://devstreaming-cdn.apple.com/videos/streaming/examples/img_bipbop_adv_example_ts/master.m3u8
-#EXTINF:-1 tvg-id="ah.merin" tvg-logo="https://tugayakin.github.io/merin-player/test/logos/ah.svg" group-title="Türkiye - Haber",TR: Anadolu Haber 24
+#EXTINF:-1 tvg-id="ah.merin" tvg-logo="https://merintta.com/merin-player/test/logos/ah.svg" group-title="Türkiye - Haber",TR: Anadolu Haber 24
 https://devstreaming-cdn.apple.com/videos/streaming/examples/bipbop_16x9/bipbop_16x9_variant.m3u8
-#EXTINF:-1 tvg-id="ks.merin" tvg-logo="https://tugayakin.github.io/merin-player/test/logos/ks.svg" group-title="Türkiye - Spor",TR: Kartal Spor 1 FHD
+#EXTINF:-1 tvg-id="ks.merin" tvg-logo="https://merintta.com/merin-player/test/logos/ks.svg" group-title="Türkiye - Spor",TR: Kartal Spor 1 FHD
 https://test-streams.mux.dev/test_001/stream.m3u8
-#EXTINF:-1 tvg-id="tn.merin" tvg-logo="https://tugayakin.github.io/merin-player/test/logos/tn.svg" group-title="United Kingdom - News",UK: Thames News
+#EXTINF:-1 tvg-id="tn.merin" tvg-logo="https://merintta.com/merin-player/test/logos/tn.svg" group-title="United Kingdom - News",UK: Thames News
 https://devstreaming-cdn.apple.com/videos/streaming/examples/bipbop_16x9/bipbop_16x9_variant.m3u8
-#EXTINF:-1 tvg-id="pk.merin" tvg-logo="https://tugayakin.github.io/merin-player/test/logos/pk.svg" group-title="United Kingdom - Kids",UK: Puddle Kids
+#EXTINF:-1 tvg-id="pk.merin" tvg-logo="https://merintta.com/merin-player/test/logos/pk.svg" group-title="United Kingdom - Kids",UK: Puddle Kids
 https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8
-#EXTINF:-1 tvg-id="as.merin" tvg-logo="https://tugayakin.github.io/merin-player/test/logos/as.svg" group-title="Germany - Sport",DE: Alpen Sport 1 FHD
+#EXTINF:-1 tvg-id="as.merin" tvg-logo="https://merintta.com/merin-player/test/logos/as.svg" group-title="Germany - Sport",DE: Alpen Sport 1 FHD
 https://test-streams.mux.dev/tos_ismc/main.m3u8
-#EXTINF:-1 tvg-logo="https://tugayakin.github.io/merin-player/test/logos/saltwater.svg" group-title="VOD - Drama",Saltwater Summer (2021)
-https://tugayakin.github.io/merin-player/test/media/big-buck-bunny-10s.mp4?movie=1
-#EXTINF:-1 tvg-logo="https://tugayakin.github.io/merin-player/test/logos/orchard.svg" group-title="VOD - Comedy",The Quiet Orchard (2019)
-https://tugayakin.github.io/merin-player/test/media/big-buck-bunny-10s.mp4?movie=2
-#EXTINF:-1 tvg-logo="https://tugayakin.github.io/merin-player/test/logos/nowhere.svg" group-title="VOD - Drama",North of Nowhere (2018)
-https://tugayakin.github.io/merin-player/test/media/big-buck-bunny-10s.mp4?movie=3
-#EXTINF:-1 tvg-logo="https://tugayakin.github.io/merin-player/test/logos/lanterns.svg" group-title="VOD - Family",Paper Lanterns (2023)
-https://tugayakin.github.io/merin-player/test/media/big-buck-bunny-10s.mp4?movie=4
-#EXTINF:-1 tvg-logo="https://tugayakin.github.io/merin-player/test/logos/harbour.svg" group-title="Series - Drama",Harbour Lights S01 E01 Arrival
-https://tugayakin.github.io/merin-player/test/media/big-buck-bunny-10s.mp4?series=Harbour%20Lights&s=1&e=1
-#EXTINF:-1 tvg-logo="https://tugayakin.github.io/merin-player/test/logos/harbour.svg" group-title="Series - Drama",Harbour Lights S01 E02 Low Tide
-https://tugayakin.github.io/merin-player/test/media/big-buck-bunny-10s.mp4?series=Harbour%20Lights&s=1&e=2
-#EXTINF:-1 tvg-logo="https://tugayakin.github.io/merin-player/test/logos/harbour.svg" group-title="Series - Drama",Harbour Lights S01 E03 The Storm
-https://tugayakin.github.io/merin-player/test/media/big-buck-bunny-10s.mp4?series=Harbour%20Lights&s=1&e=3
-#EXTINF:-1 tvg-logo="https://tugayakin.github.io/merin-player/test/logos/harbour.svg" group-title="Series - Drama",Harbour Lights S02 E01 New Season
-https://tugayakin.github.io/merin-player/test/media/big-buck-bunny-10s.mp4?series=Harbour%20Lights&s=2&e=1
-#EXTINF:-1 tvg-logo="https://tugayakin.github.io/merin-player/test/logos/desk.svg" group-title="Series - Comedy",Desk Job S01 E01 Monday
-https://tugayakin.github.io/merin-player/test/media/big-buck-bunny-10s.mp4?series=Desk%20Job&s=1&e=1
-#EXTINF:-1 tvg-logo="https://tugayakin.github.io/merin-player/test/logos/desk.svg" group-title="Series - Comedy",Desk Job S01 E02 The Meeting
-https://tugayakin.github.io/merin-player/test/media/big-buck-bunny-10s.mp4?series=Desk%20Job&s=1&e=2
+#EXTINF:-1 tvg-logo="https://merintta.com/merin-player/test/logos/saltwater.svg" group-title="VOD - Drama",Saltwater Summer (2021)
+https://merintta.com/merin-player/test/media/big-buck-bunny-10s.mp4?movie=1
+#EXTINF:-1 tvg-logo="https://merintta.com/merin-player/test/logos/orchard.svg" group-title="VOD - Comedy",The Quiet Orchard (2019)
+https://merintta.com/merin-player/test/media/big-buck-bunny-10s.mp4?movie=2
+#EXTINF:-1 tvg-logo="https://merintta.com/merin-player/test/logos/nowhere.svg" group-title="VOD - Drama",North of Nowhere (2018)
+https://merintta.com/merin-player/test/media/big-buck-bunny-10s.mp4?movie=3
+#EXTINF:-1 tvg-logo="https://merintta.com/merin-player/test/logos/lanterns.svg" group-title="VOD - Family",Paper Lanterns (2023)
+https://merintta.com/merin-player/test/media/big-buck-bunny-10s.mp4?movie=4
+#EXTINF:-1 tvg-logo="https://merintta.com/merin-player/test/logos/harbour.svg" group-title="Series - Drama",Harbour Lights S01 E01 Arrival
+https://merintta.com/merin-player/test/media/big-buck-bunny-10s.mp4?series=Harbour%20Lights&s=1&e=1
+#EXTINF:-1 tvg-logo="https://merintta.com/merin-player/test/logos/harbour.svg" group-title="Series - Drama",Harbour Lights S01 E02 Low Tide
+https://merintta.com/merin-player/test/media/big-buck-bunny-10s.mp4?series=Harbour%20Lights&s=1&e=2
+#EXTINF:-1 tvg-logo="https://merintta.com/merin-player/test/logos/harbour.svg" group-title="Series - Drama",Harbour Lights S01 E03 The Storm
+https://merintta.com/merin-player/test/media/big-buck-bunny-10s.mp4?series=Harbour%20Lights&s=1&e=3
+#EXTINF:-1 tvg-logo="https://merintta.com/merin-player/test/logos/harbour.svg" group-title="Series - Drama",Harbour Lights S02 E01 New Season
+https://merintta.com/merin-player/test/media/big-buck-bunny-10s.mp4?series=Harbour%20Lights&s=2&e=1
+#EXTINF:-1 tvg-logo="https://merintta.com/merin-player/test/logos/desk.svg" group-title="Series - Comedy",Desk Job S01 E01 Monday
+https://merintta.com/merin-player/test/media/big-buck-bunny-10s.mp4?series=Desk%20Job&s=1&e=1
+#EXTINF:-1 tvg-logo="https://merintta.com/merin-player/test/logos/desk.svg" group-title="Series - Comedy",Desk Job S01 E02 The Meeting
+https://merintta.com/merin-player/test/media/big-buck-bunny-10s.mp4?series=Desk%20Job&s=1&e=2
