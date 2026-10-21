@@ -1,0 +1,3 @@
+RewriteEngine On
+RewriteRule ^(live|movie|series)/([^/]+)/([^/]+)/(\d+)\.(m3u8|ts|mp4|mkv)$ stream.php?type=$1&u=$2&p=$3&id=$4 [L,QSA]
+RewriteRule ^(data\.json|config\.php)$ - [F,L]
