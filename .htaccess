@@ -8,7 +8,7 @@ RewriteCond %{REQUEST_FILENAME} !-f
 RewriteCond %{REQUEST_FILENAME}.html -f
 RewriteRule ^(.+?)/?$ $1.html [L]
 # old .html links go to the clean address
-RewriteCond %{THE_REQUEST} \s/+merin-player/(privacy)\.html[\s?] [NC]
+RewriteCond %{THE_REQUEST} \s/+merin-player/(privacy|support)\.html[\s?] [NC]
 RewriteRule ^ /merin-player/%1 [R=301,L]
 
 AddType audio/x-mpegurl .m3u

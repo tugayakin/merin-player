@@ -3,55 +3,50 @@
 <head>
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
-<title>Merin Player — support</title>
-<meta name="description" content="Merin Player plays the channels, movies and series from your own IPTV service on your smart TV.">
+<title>Merin Player — your IPTV subscription on the big screen</title>
+<meta name="description" content="Merin Player plays the live channels, movies and series from your own IPTV subscription on your smart TV, sorted by country and theme, with a TV guide.">
+<meta property="og:title" content="Merin Player">
+<meta property="og:description" content="Your IPTV subscription on the big screen: live TV, movies and series, sorted by country and theme.">
+<meta property="og:image" content="https://merintta.com/merin-player/img/02-live-tv.jpg">
 <link rel="icon" href="icon.png">
 <link rel="stylesheet" href="site.css">
 </head>
-<body>
-<main>
+<body class="home">
+<main class="wide">
   <header class="top">
     <img src="icon.png" alt=""><a href="./">Merin Player</a>
-    <nav><a href="./" aria-current="page">Support</a><a href="privacy">Privacy</a></nav>
+    <nav><a href="support">Support</a><a href="privacy">Privacy</a></nav>
   </header>
 
-  <h1>Your TV subscription, on the big screen</h1>
-  <p class="lead">Merin Player plays the channels, movies and series from your own IPTV service on your smart TV.</p>
+  <section class="hero">
+    <h1>Your IPTV subscription, <br>on the big screen</h1>
+    <p class="lead">Merin Player plays the live channels, movies and series from your own IPTV service on your smart TV. Sorted by country and theme, with a TV guide, and made for the remote.</p>
 
-  <div class="note">Merin Player is a player only. It doesn’t include or sell any channels, playlists or content, and it isn’t affiliated with any IPTV provider. Use it only with services you are entitled to watch.</div>
+    <!-- Download links: replace href="#" and remove the "soon" class when a store link is ready -->
+    <div class="stores">
+      <a class="store soon" href="#" data-store="lg"><span class="s-small">Smart TV</span><span class="s-name">LG</span><span class="s-badge">Coming soon</span></a>
+      <a class="store soon" href="#" data-store="samsung"><span class="s-small">Smart TV</span><span class="s-name">Samsung</span><span class="s-badge">Coming soon</span></a>
+      <a class="store soon" href="#" data-store="android"><span class="s-small">Google Play</span><span class="s-name">Android TV</span><span class="s-badge">Coming soon</span></a>
+      <a class="store soon" href="#" data-store="apple"><span class="s-small">App Store</span><span class="s-name">Apple TV</span><span class="s-badge">Coming soon</span></a>
+    </div>
+  </section>
 
-  <h2>Getting started</h2>
-  <ol>
-    <li>Open Merin Player and choose <b>Add a playlist</b>.</li>
-    <li>Pick <b>M3U link</b> and enter the playlist address your provider gave you, or pick <b>Xtream Codes login</b> and enter the server, username and password.</li>
-    <li>Choose <b>Add playlist</b>. Your channels appear, sorted by country and theme.</li>
-  </ol>
-  <p>You can add several playlists and switch between them from the playlist button at the top.</p>
+  <figure class="shot">
+    <img src="img/02-live-tv.jpg" srcset="img/02-live-tv-1000.jpg 1000w, img/02-live-tv.jpg 1920w" sizes="(max-width: 1000px) 100vw, 1000px"
+      width="1920" height="1080" alt="Merin Player showing live TV channels for the Netherlands, with a live preview and the TV guide">
+    <figcaption>Shown with a demo playlist.</figcaption>
+  </figure>
 
-  <h2>Using the remote</h2>
-  <ul>
-    <li><b>▲ ▼</b> move through channels; a preview starts after a moment. <b>OK</b> watches full screen.</li>
-    <li>In full screen, <b>▲ ▼</b> or <b>CH + / −</b> change channel and <b>BACK</b> returns to the list.</li>
-    <li><b>▶</b> then <b>OK</b> on a channel, or any colour key, adds it to your favourites.</li>
-    <li>Movies and series: <b>◀ ▶</b> skip 10 seconds, <b>OK</b> pauses, <b>▼</b> shows the on-screen controls, <b>BACK</b> stops.</li>
-    <li>The Magic Remote pointer and scroll wheel work everywhere.</li>
-  </ul>
+  <section class="features">
+    <div><h3>Sorted the way you think</h3><p>Pick a country, then News, Sport, Kids or Movies — even when your provider’s own groups are messy.</p></div>
+    <div><h3>See before you switch</h3><p>A live preview of every channel, with what’s on now and next.</p></div>
+    <div><h3>Movies and series</h3><p>Posters, seasons and episodes. Resume where you stopped; the next episode starts by itself.</p></div>
+    <div><h3>Your playlists, your TV</h3><p>M3U links and Xtream Codes logins. Everything stays on your TV, passwords encrypted.</p></div>
+  </section>
 
-  <h2>Test playlist</h2>
-  <p>To try Merin Player without a subscription (or to review it), add this M3U link:</p>
-  <span class="url">https://merintta.com/merin-player/test/playlist.m3u</span>
-  <p class="muted">12 test channels across four countries with a TV guide, plus test movies and series. Everything in it is an official test stream (Mux, Apple) or a Creative Commons film from the Blender Foundation (<i>Big Buck Bunny</i>, <i>Tears of Steel</i>, CC BY 3.0). Channel names are fictional.</p>
+  <p class="note">Merin Player is a player only. It doesn’t include or sell any channels, playlists or content, and it isn’t affiliated with any IPTV provider.</p>
 
-  <h2>Questions</h2>
-  <h3>My channels don’t play</h3>
-  <p>Merin Player plays what your provider sends. Check that your subscription is active and that the same playlist works elsewhere. Some providers allow only one device at a time.</p>
-  <h3>Where is my data stored?</h3>
-  <p>Only on your TV. See the <a href="privacy">privacy policy</a>.</p>
-
-  <h2>Contact</h2>
-  <p id="contact">Email <a href="mailto:info@merintta.com">info@merintta.com</a>.</p>
-
-  <footer>Merin Player · © 2026 Akin Tugay</footer>
+  <footer>Merin Player · © 2026 Akin Tugay · <a href="support">Support</a> · <a href="privacy">Privacy</a> · <a href="mailto:info@merintta.com">info@merintta.com</a></footer>
 </main>
 </body>
 </html>
