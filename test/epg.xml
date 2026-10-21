@@ -1,0 +1,447 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tv generator-info-name="merin-player test guide">
+  <channel id="p1.merin"><display-name>Polder One</display-name></channel>
+  <channel id="nn.merin"><display-name>Northwind News</display-name></channel>
+  <channel id="hs.merin"><display-name>Harbor Sports 1</display-name></channel>
+  <channel id="mk.merin"><display-name>Maple Kids</display-name></channel>
+  <channel id="lc.merin"><display-name>Lantern Cinema</display-name></channel>
+  <channel id="td.merin"><display-name>Tundra Docs</display-name></channel>
+  <channel id="bt.merin"><display-name>Boğaz TV</display-name></channel>
+  <channel id="ah.merin"><display-name>Anadolu Haber 24</display-name></channel>
+  <channel id="ks.merin"><display-name>Kartal Spor 1</display-name></channel>
+  <channel id="tn.merin"><display-name>Thames News</display-name></channel>
+  <channel id="pk.merin"><display-name>Puddle Kids</display-name></channel>
+  <channel id="as.merin"><display-name>Alpen Sport 1</display-name></channel>
+  <programme channel="p1.merin" start="20261021040000 +0000" stop="20261021050000 +0000"><title>Morning Edition</title><desc>Test programme for Merin Player.</desc></programme>
+  <programme channel="p1.merin" start="20261021050000 +0000" stop="20261021060000 +0000"><title>Market Watch</title><desc>Test programme for Merin Player.</desc></programme>
+  <programme channel="p1.merin" start="20261021060000 +0000" stop="20261021070000 +0000"><title>Garden Hour</title><desc>Test programme for Merin Player.</desc></programme>
+  <programme channel="p1.merin" start="20261021070000 +0000" stop="20261021080000 +0000"><title>Weekend Sport</title><desc>Test programme for Merin Player.</desc></programme>
+  <programme channel="p1.merin" start="20261021080000 +0000" stop="20261021090000 +0000"><title>The Late Show</title><desc>Test programme for Merin Player.</desc></programme>
+  <programme channel="p1.merin" start="20261021090000 +0000" stop="20261021100000 +0000"><title>World Tonight</title><desc>Test programme for Merin Player.</desc></programme>
+  <programme channel="p1.merin" start="20261021100000 +0000" stop="20261021110000 +0000"><title>Cartoon Club</title><desc>Test programme for Merin Player.</desc></programme>
+  <programme channel="p1.merin" start="20261021110000 +0000" stop="20261021120000 +0000"><title>Nature Files</title><desc>Test programme for Merin Player.</desc></programme>
+  <programme channel="p1.merin" start="20261021120000 +0000" stop="20261021130000 +0000"><title>Studio Live</title><desc>Test programme for Merin Player.</desc></programme>
+  <programme channel="p1.merin" start="20261021130000 +0000" stop="20261021140000 +0000"><title>Top Twenty</title><desc>Test programme for Merin Player.</desc></programme>
+  <programme channel="p1.merin" start="20261021140000 +0000" stop="20261021150000 +0000"><title>Morning Edition</title><desc>Test programme for Merin Player.</desc></programme>
+  <programme channel="p1.merin" start="20261021150000 +0000" stop="20261021160000 +0000"><title>Market Watch</title><desc>Test programme for Merin Player.</desc></programme>
+  <programme channel="p1.merin" start="20261021160000 +0000" stop="20261021170000 +0000"><title>Garden Hour</title><desc>Test programme for Merin Player.</desc></programme>
+  <programme channel="p1.merin" start="20261021170000 +0000" stop="20261021180000 +0000"><title>Weekend Sport</title><desc>Test programme for Merin Player.</desc></programme>
+  <programme channel="p1.merin" start="20261021180000 +0000" stop="20261021190000 +0000"><title>The Late Show</title><desc>Test programme for Merin Player.</desc></programme>
+  <programme channel="p1.merin" start="20261021190000 +0000" stop="20261021200000 +0000"><title>World Tonight</title><desc>Test programme for Merin Player.</desc></programme>
+  <programme channel="p1.merin" start="20261021200000 +0000" stop="20261021210000 +0000"><title>Cartoon Club</title><desc>Test programme for Merin Player.</desc></programme>
+  <programme channel="p1.merin" start="20261021210000 +0000" stop="20261021220000 +0000"><title>Nature Files</title><desc>Test programme for Merin Player.</desc></programme>
+  <programme channel="p1.merin" start="20261021220000 +0000" stop="20261021230000 +0000"><title>Studio Live</title><desc>Test programme for Merin Player.</desc></programme>
+  <programme channel="p1.merin" start="20261021230000 +0000" stop="20261022000000 +0000"><title>Top Twenty</title><desc>Test programme for Merin Player.</desc></programme>
+  <programme channel="p1.merin" start="20261022000000 +0000" stop="20261022010000 +0000"><title>Morning Edition</title><desc>Test programme for Merin Player.</desc></programme>
+  <programme channel="p1.merin" start="20261022010000 +0000" stop="20261022020000 +0000"><title>Market Watch</title><desc>Test programme for Merin Player.</desc></programme>
+  <programme channel="p1.merin" start="20261022020000 +0000" stop="20261022030000 +0000"><title>Garden Hour</title><desc>Test programme for Merin Player.</desc></programme>
+  <programme channel="p1.merin" start="20261022030000 +0000" stop="20261022040000 +0000"><title>Weekend Sport</title><desc>Test programme for Merin Player.</desc></programme>
+  <programme channel="p1.merin" start="20261022040000 +0000" stop="20261022050000 +0000"><title>The Late Show</title><desc>Test programme for Merin Player.</desc></programme>
+  <programme channel="p1.merin" start="20261022050000 +0000" stop="20261022060000 +0000"><title>World Tonight</title><desc>Test programme for Merin Player.</desc></programme>
+  <programme channel="p1.merin" start="20261022060000 +0000" stop="20261022070000 +0000"><title>Cartoon Club</title><desc>Test programme for Merin Player.</desc></programme>
+  <programme channel="p1.merin" start="20261022070000 +0000" stop="20261022080000 +0000"><title>Nature Files</title><desc>Test programme for Merin Player.</desc></programme>
+  <programme channel="p1.merin" start="20261022080000 +0000" stop="20261022090000 +0000"><title>Studio Live</title><desc>Test programme for Merin Player.</desc></programme>
+  <programme channel="p1.merin" start="20261022090000 +0000" stop="20261022100000 +0000"><title>Top Twenty</title><desc>Test programme for Merin Player.</desc></programme>
+  <programme channel="p1.merin" start="20261022100000 +0000" stop="20261022110000 +0000"><title>Morning Edition</title><desc>Test programme for Merin Player.</desc></programme>
+  <programme channel="p1.merin" start="20261022110000 +0000" stop="20261022120000 +0000"><title>Market Watch</title><desc>Test programme for Merin Player.</desc></programme>
+  <programme channel="p1.merin" start="20261022120000 +0000" stop="20261022130000 +0000"><title>Garden Hour</title><desc>Test programme for Merin Player.</desc></programme>
+  <programme channel="p1.merin" start="20261022130000 +0000" stop="20261022140000 +0000"><title>Weekend Sport</title><desc>Test programme for Merin Player.</desc></programme>
+  <programme channel="p1.merin" start="20261022140000 +0000" stop="20261022150000 +0000"><title>The Late Show</title><desc>Test programme for Merin Player.</desc></programme>
+  <programme channel="p1.merin" start="20261022150000 +0000" stop="20261022160000 +0000"><title>World Tonight</title><desc>Test programme for Merin Player.</desc></programme>
+  <programme channel="nn.merin" start="20261021040000 +0000" stop="20261021050000 +0000"><title>Market Watch</title><desc>Test programme for Merin Player.</desc></programme>
+  <programme channel="nn.merin" start="20261021050000 +0000" stop="20261021060000 +0000"><title>Garden Hour</title><desc>Test programme for Merin Player.</desc></programme>
+  <programme channel="nn.merin" start="20261021060000 +0000" stop="20261021070000 +0000"><title>Weekend Sport</title><desc>Test programme for Merin Player.</desc></programme>
+  <programme channel="nn.merin" start="20261021070000 +0000" stop="20261021080000 +0000"><title>The Late Show</title><desc>Test programme for Merin Player.</desc></programme>
+  <programme channel="nn.merin" start="20261021080000 +0000" stop="20261021090000 +0000"><title>World Tonight</title><desc>Test programme for Merin Player.</desc></programme>
+  <programme channel="nn.merin" start="20261021090000 +0000" stop="20261021100000 +0000"><title>Cartoon Club</title><desc>Test programme for Merin Player.</desc></programme>
+  <programme channel="nn.merin" start="20261021100000 +0000" stop="20261021110000 +0000"><title>Nature Files</title><desc>Test programme for Merin Player.</desc></programme>
+  <programme channel="nn.merin" start="20261021110000 +0000" stop="20261021120000 +0000"><title>Studio Live</title><desc>Test programme for Merin Player.</desc></programme>
+  <programme channel="nn.merin" start="20261021120000 +0000" stop="20261021130000 +0000"><title>Top Twenty</title><desc>Test programme for Merin Player.</desc></programme>
+  <programme channel="nn.merin" start="20261021130000 +0000" stop="20261021140000 +0000"><title>Morning Edition</title><desc>Test programme for Merin Player.</desc></programme>
+  <programme channel="nn.merin" start="20261021140000 +0000" stop="20261021150000 +0000"><title>Market Watch</title><desc>Test programme for Merin Player.</desc></programme>
+  <programme channel="nn.merin" start="20261021150000 +0000" stop="20261021160000 +0000"><title>Garden Hour</title><desc>Test programme for Merin Player.</desc></programme>
+  <programme channel="nn.merin" start="20261021160000 +0000" stop="20261021170000 +0000"><title>Weekend Sport</title><desc>Test programme for Merin Player.</desc></programme>
+  <programme channel="nn.merin" start="20261021170000 +0000" stop="20261021180000 +0000"><title>The Late Show</title><desc>Test programme for Merin Player.</desc></programme>
+  <programme channel="nn.merin" start="20261021180000 +0000" stop="20261021190000 +0000"><title>World Tonight</title><desc>Test programme for Merin Player.</desc></programme>
+  <programme channel="nn.merin" start="20261021190000 +0000" stop="20261021200000 +0000"><title>Cartoon Club</title><desc>Test programme for Merin Player.</desc></programme>
+  <programme channel="nn.merin" start="20261021200000 +0000" stop="20261021210000 +0000"><title>Nature Files</title><desc>Test programme for Merin Player.</desc></programme>
+  <programme channel="nn.merin" start="20261021210000 +0000" stop="20261021220000 +0000"><title>Studio Live</title><desc>Test programme for Merin Player.</desc></programme>
+  <programme channel="nn.merin" start="20261021220000 +0000" stop="20261021230000 +0000"><title>Top Twenty</title><desc>Test programme for Merin Player.</desc></programme>
+  <programme channel="nn.merin" start="20261021230000 +0000" stop="20261022000000 +0000"><title>Morning Edition</title><desc>Test programme for Merin Player.</desc></programme>
+  <programme channel="nn.merin" start="20261022000000 +0000" stop="20261022010000 +0000"><title>Market Watch</title><desc>Test programme for Merin Player.</desc></programme>
+  <programme channel="nn.merin" start="20261022010000 +0000" stop="20261022020000 +0000"><title>Garden Hour</title><desc>Test programme for Merin Player.</desc></programme>
+  <programme channel="nn.merin" start="20261022020000 +0000" stop="20261022030000 +0000"><title>Weekend Sport</title><desc>Test programme for Merin Player.</desc></programme>
+  <programme channel="nn.merin" start="20261022030000 +0000" stop="20261022040000 +0000"><title>The Late Show</title><desc>Test programme for Merin Player.</desc></programme>
+  <programme channel="nn.merin" start="20261022040000 +0000" stop="20261022050000 +0000"><title>World Tonight</title><desc>Test programme for Merin Player.</desc></programme>
+  <programme channel="nn.merin" start="20261022050000 +0000" stop="20261022060000 +0000"><title>Cartoon Club</title><desc>Test programme for Merin Player.</desc></programme>
+  <programme channel="nn.merin" start="20261022060000 +0000" stop="20261022070000 +0000"><title>Nature Files</title><desc>Test programme for Merin Player.</desc></programme>
+  <programme channel="nn.merin" start="20261022070000 +0000" stop="20261022080000 +0000"><title>Studio Live</title><desc>Test programme for Merin Player.</desc></programme>
+  <programme channel="nn.merin" start="20261022080000 +0000" stop="20261022090000 +0000"><title>Top Twenty</title><desc>Test programme for Merin Player.</desc></programme>
+  <programme channel="nn.merin" start="20261022090000 +0000" stop="20261022100000 +0000"><title>Morning Edition</title><desc>Test programme for Merin Player.</desc></programme>
+  <programme channel="nn.merin" start="20261022100000 +0000" stop="20261022110000 +0000"><title>Market Watch</title><desc>Test programme for Merin Player.</desc></programme>
+  <programme channel="nn.merin" start="20261022110000 +0000" stop="20261022120000 +0000"><title>Garden Hour</title><desc>Test programme for Merin Player.</desc></programme>
+  <programme channel="nn.merin" start="20261022120000 +0000" stop="20261022130000 +0000"><title>Weekend Sport</title><desc>Test programme for Merin Player.</desc></programme>
+  <programme channel="nn.merin" start="20261022130000 +0000" stop="20261022140000 +0000"><title>The Late Show</title><desc>Test programme for Merin Player.</desc></programme>
+  <programme channel="nn.merin" start="20261022140000 +0000" stop="20261022150000 +0000"><title>World Tonight</title><desc>Test programme for Merin Player.</desc></programme>
+  <programme channel="nn.merin" start="20261022150000 +0000" stop="20261022160000 +0000"><title>Cartoon Club</title><desc>Test programme for Merin Player.</desc></programme>
+  <programme channel="hs.merin" start="20261021040000 +0000" stop="20261021050000 +0000"><title>Garden Hour</title><desc>Test programme for Merin Player.</desc></programme>
+  <programme channel="hs.merin" start="20261021050000 +0000" stop="20261021060000 +0000"><title>Weekend Sport</title><desc>Test programme for Merin Player.</desc></programme>
+  <programme channel="hs.merin" start="20261021060000 +0000" stop="20261021070000 +0000"><title>The Late Show</title><desc>Test programme for Merin Player.</desc></programme>
+  <programme channel="hs.merin" start="20261021070000 +0000" stop="20261021080000 +0000"><title>World Tonight</title><desc>Test programme for Merin Player.</desc></programme>
+  <programme channel="hs.merin" start="20261021080000 +0000" stop="20261021090000 +0000"><title>Cartoon Club</title><desc>Test programme for Merin Player.</desc></programme>
+  <programme channel="hs.merin" start="20261021090000 +0000" stop="20261021100000 +0000"><title>Nature Files</title><desc>Test programme for Merin Player.</desc></programme>
+  <programme channel="hs.merin" start="20261021100000 +0000" stop="20261021110000 +0000"><title>Studio Live</title><desc>Test programme for Merin Player.</desc></programme>
+  <programme channel="hs.merin" start="20261021110000 +0000" stop="20261021120000 +0000"><title>Top Twenty</title><desc>Test programme for Merin Player.</desc></programme>
+  <programme channel="hs.merin" start="20261021120000 +0000" stop="20261021130000 +0000"><title>Morning Edition</title><desc>Test programme for Merin Player.</desc></programme>
+  <programme channel="hs.merin" start="20261021130000 +0000" stop="20261021140000 +0000"><title>Market Watch</title><desc>Test programme for Merin Player.</desc></programme>
+  <programme channel="hs.merin" start="20261021140000 +0000" stop="20261021150000 +0000"><title>Garden Hour</title><desc>Test programme for Merin Player.</desc></programme>
+  <programme channel="hs.merin" start="20261021150000 +0000" stop="20261021160000 +0000"><title>Weekend Sport</title><desc>Test programme for Merin Player.</desc></programme>
+  <programme channel="hs.merin" start="20261021160000 +0000" stop="20261021170000 +0000"><title>The Late Show</title><desc>Test programme for Merin Player.</desc></programme>
+  <programme channel="hs.merin" start="20261021170000 +0000" stop="20261021180000 +0000"><title>World Tonight</title><desc>Test programme for Merin Player.</desc></programme>
+  <programme channel="hs.merin" start="20261021180000 +0000" stop="20261021190000 +0000"><title>Cartoon Club</title><desc>Test programme for Merin Player.</desc></programme>
+  <programme channel="hs.merin" start="20261021190000 +0000" stop="20261021200000 +0000"><title>Nature Files</title><desc>Test programme for Merin Player.</desc></programme>
+  <programme channel="hs.merin" start="20261021200000 +0000" stop="20261021210000 +0000"><title>Studio Live</title><desc>Test programme for Merin Player.</desc></programme>
+  <programme channel="hs.merin" start="20261021210000 +0000" stop="20261021220000 +0000"><title>Top Twenty</title><desc>Test programme for Merin Player.</desc></programme>
+  <programme channel="hs.merin" start="20261021220000 +0000" stop="20261021230000 +0000"><title>Morning Edition</title><desc>Test programme for Merin Player.</desc></programme>
+  <programme channel="hs.merin" start="20261021230000 +0000" stop="20261022000000 +0000"><title>Market Watch</title><desc>Test programme for Merin Player.</desc></programme>
+  <programme channel="hs.merin" start="20261022000000 +0000" stop="20261022010000 +0000"><title>Garden Hour</title><desc>Test programme for Merin Player.</desc></programme>
+  <programme channel="hs.merin" start="20261022010000 +0000" stop="20261022020000 +0000"><title>Weekend Sport</title><desc>Test programme for Merin Player.</desc></programme>
+  <programme channel="hs.merin" start="20261022020000 +0000" stop="20261022030000 +0000"><title>The Late Show</title><desc>Test programme for Merin Player.</desc></programme>
+  <programme channel="hs.merin" start="20261022030000 +0000" stop="20261022040000 +0000"><title>World Tonight</title><desc>Test programme for Merin Player.</desc></programme>
+  <programme channel="hs.merin" start="20261022040000 +0000" stop="20261022050000 +0000"><title>Cartoon Club</title><desc>Test programme for Merin Player.</desc></programme>
+  <programme channel="hs.merin" start="20261022050000 +0000" stop="20261022060000 +0000"><title>Nature Files</title><desc>Test programme for Merin Player.</desc></programme>
+  <programme channel="hs.merin" start="20261022060000 +0000" stop="20261022070000 +0000"><title>Studio Live</title><desc>Test programme for Merin Player.</desc></programme>
+  <programme channel="hs.merin" start="20261022070000 +0000" stop="20261022080000 +0000"><title>Top Twenty</title><desc>Test programme for Merin Player.</desc></programme>
+  <programme channel="hs.merin" start="20261022080000 +0000" stop="20261022090000 +0000"><title>Morning Edition</title><desc>Test programme for Merin Player.</desc></programme>
+  <programme channel="hs.merin" start="20261022090000 +0000" stop="20261022100000 +0000"><title>Market Watch</title><desc>Test programme for Merin Player.</desc></programme>
+  <programme channel="hs.merin" start="20261022100000 +0000" stop="20261022110000 +0000"><title>Garden Hour</title><desc>Test programme for Merin Player.</desc></programme>
+  <programme channel="hs.merin" start="20261022110000 +0000" stop="20261022120000 +0000"><title>Weekend Sport</title><desc>Test programme for Merin Player.</desc></programme>
+  <programme channel="hs.merin" start="20261022120000 +0000" stop="20261022130000 +0000"><title>The Late Show</title><desc>Test programme for Merin Player.</desc></programme>
+  <programme channel="hs.merin" start="20261022130000 +0000" stop="20261022140000 +0000"><title>World Tonight</title><desc>Test programme for Merin Player.</desc></programme>
+  <programme channel="hs.merin" start="20261022140000 +0000" stop="20261022150000 +0000"><title>Cartoon Club</title><desc>Test programme for Merin Player.</desc></programme>
+  <programme channel="hs.merin" start="20261022150000 +0000" stop="20261022160000 +0000"><title>Nature Files</title><desc>Test programme for Merin Player.</desc></programme>
+  <programme channel="mk.merin" start="20261021040000 +0000" stop="20261021050000 +0000"><title>Weekend Sport</title><desc>Test programme for Merin Player.</desc></programme>
+  <programme channel="mk.merin" start="20261021050000 +0000" stop="20261021060000 +0000"><title>The Late Show</title><desc>Test programme for Merin Player.</desc></programme>
+  <programme channel="mk.merin" start="20261021060000 +0000" stop="20261021070000 +0000"><title>World Tonight</title><desc>Test programme for Merin Player.</desc></programme>
+  <programme channel="mk.merin" start="20261021070000 +0000" stop="20261021080000 +0000"><title>Cartoon Club</title><desc>Test programme for Merin Player.</desc></programme>
+  <programme channel="mk.merin" start="20261021080000 +0000" stop="20261021090000 +0000"><title>Nature Files</title><desc>Test programme for Merin Player.</desc></programme>
+  <programme channel="mk.merin" start="20261021090000 +0000" stop="20261021100000 +0000"><title>Studio Live</title><desc>Test programme for Merin Player.</desc></programme>
+  <programme channel="mk.merin" start="20261021100000 +0000" stop="20261021110000 +0000"><title>Top Twenty</title><desc>Test programme for Merin Player.</desc></programme>
+  <programme channel="mk.merin" start="20261021110000 +0000" stop="20261021120000 +0000"><title>Morning Edition</title><desc>Test programme for Merin Player.</desc></programme>
+  <programme channel="mk.merin" start="20261021120000 +0000" stop="20261021130000 +0000"><title>Market Watch</title><desc>Test programme for Merin Player.</desc></programme>
+  <programme channel="mk.merin" start="20261021130000 +0000" stop="20261021140000 +0000"><title>Garden Hour</title><desc>Test programme for Merin Player.</desc></programme>
+  <programme channel="mk.merin" start="20261021140000 +0000" stop="20261021150000 +0000"><title>Weekend Sport</title><desc>Test programme for Merin Player.</desc></programme>
+  <programme channel="mk.merin" start="20261021150000 +0000" stop="20261021160000 +0000"><title>The Late Show</title><desc>Test programme for Merin Player.</desc></programme>
+  <programme channel="mk.merin" start="20261021160000 +0000" stop="20261021170000 +0000"><title>World Tonight</title><desc>Test programme for Merin Player.</desc></programme>
+  <programme channel="mk.merin" start="20261021170000 +0000" stop="20261021180000 +0000"><title>Cartoon Club</title><desc>Test programme for Merin Player.</desc></programme>
+  <programme channel="mk.merin" start="20261021180000 +0000" stop="20261021190000 +0000"><title>Nature Files</title><desc>Test programme for Merin Player.</desc></programme>
+  <programme channel="mk.merin" start="20261021190000 +0000" stop="20261021200000 +0000"><title>Studio Live</title><desc>Test programme for Merin Player.</desc></programme>
+  <programme channel="mk.merin" start="20261021200000 +0000" stop="20261021210000 +0000"><title>Top Twenty</title><desc>Test programme for Merin Player.</desc></programme>
+  <programme channel="mk.merin" start="20261021210000 +0000" stop="20261021220000 +0000"><title>Morning Edition</title><desc>Test programme for Merin Player.</desc></programme>
+  <programme channel="mk.merin" start="20261021220000 +0000" stop="20261021230000 +0000"><title>Market Watch</title><desc>Test programme for Merin Player.</desc></programme>
+  <programme channel="mk.merin" start="20261021230000 +0000" stop="20261022000000 +0000"><title>Garden Hour</title><desc>Test programme for Merin Player.</desc></programme>
+  <programme channel="mk.merin" start="20261022000000 +0000" stop="20261022010000 +0000"><title>Weekend Sport</title><desc>Test programme for Merin Player.</desc></programme>
+  <programme channel="mk.merin" start="20261022010000 +0000" stop="20261022020000 +0000"><title>The Late Show</title><desc>Test programme for Merin Player.</desc></programme>
+  <programme channel="mk.merin" start="20261022020000 +0000" stop="20261022030000 +0000"><title>World Tonight</title><desc>Test programme for Merin Player.</desc></programme>
+  <programme channel="mk.merin" start="20261022030000 +0000" stop="20261022040000 +0000"><title>Cartoon Club</title><desc>Test programme for Merin Player.</desc></programme>
+  <programme channel="mk.merin" start="20261022040000 +0000" stop="20261022050000 +0000"><title>Nature Files</title><desc>Test programme for Merin Player.</desc></programme>
+  <programme channel="mk.merin" start="20261022050000 +0000" stop="20261022060000 +0000"><title>Studio Live</title><desc>Test programme for Merin Player.</desc></programme>
+  <programme channel="mk.merin" start="20261022060000 +0000" stop="20261022070000 +0000"><title>Top Twenty</title><desc>Test programme for Merin Player.</desc></programme>
+  <programme channel="mk.merin" start="20261022070000 +0000" stop="20261022080000 +0000"><title>Morning Edition</title><desc>Test programme for Merin Player.</desc></programme>
+  <programme channel="mk.merin" start="20261022080000 +0000" stop="20261022090000 +0000"><title>Market Watch</title><desc>Test programme for Merin Player.</desc></programme>
+  <programme channel="mk.merin" start="20261022090000 +0000" stop="20261022100000 +0000"><title>Garden Hour</title><desc>Test programme for Merin Player.</desc></programme>
+  <programme channel="mk.merin" start="20261022100000 +0000" stop="20261022110000 +0000"><title>Weekend Sport</title><desc>Test programme for Merin Player.</desc></programme>
+  <programme channel="mk.merin" start="20261022110000 +0000" stop="20261022120000 +0000"><title>The Late Show</title><desc>Test programme for Merin Player.</desc></programme>
+  <programme channel="mk.merin" start="20261022120000 +0000" stop="20261022130000 +0000"><title>World Tonight</title><desc>Test programme for Merin Player.</desc></programme>
+  <programme channel="mk.merin" start="20261022130000 +0000" stop="20261022140000 +0000"><title>Cartoon Club</title><desc>Test programme for Merin Player.</desc></programme>
+  <programme channel="mk.merin" start="20261022140000 +0000" stop="20261022150000 +0000"><title>Nature Files</title><desc>Test programme for Merin Player.</desc></programme>
+  <programme channel="mk.merin" start="20261022150000 +0000" stop="20261022160000 +0000"><title>Studio Live</title><desc>Test programme for Merin Player.</desc></programme>
+  <programme channel="lc.merin" start="20261021040000 +0000" stop="20261021050000 +0000"><title>The Late Show</title><desc>Test programme for Merin Player.</desc></programme>
+  <programme channel="lc.merin" start="20261021050000 +0000" stop="20261021060000 +0000"><title>World Tonight</title><desc>Test programme for Merin Player.</desc></programme>
+  <programme channel="lc.merin" start="20261021060000 +0000" stop="20261021070000 +0000"><title>Cartoon Club</title><desc>Test programme for Merin Player.</desc></programme>
+  <programme channel="lc.merin" start="20261021070000 +0000" stop="20261021080000 +0000"><title>Nature Files</title><desc>Test programme for Merin Player.</desc></programme>
+  <programme channel="lc.merin" start="20261021080000 +0000" stop="20261021090000 +0000"><title>Studio Live</title><desc>Test programme for Merin Player.</desc></programme>
+  <programme channel="lc.merin" start="20261021090000 +0000" stop="20261021100000 +0000"><title>Top Twenty</title><desc>Test programme for Merin Player.</desc></programme>
+  <programme channel="lc.merin" start="20261021100000 +0000" stop="20261021110000 +0000"><title>Morning Edition</title><desc>Test programme for Merin Player.</desc></programme>
+  <programme channel="lc.merin" start="20261021110000 +0000" stop="20261021120000 +0000"><title>Market Watch</title><desc>Test programme for Merin Player.</desc></programme>
+  <programme channel="lc.merin" start="20261021120000 +0000" stop="20261021130000 +0000"><title>Garden Hour</title><desc>Test programme for Merin Player.</desc></programme>
+  <programme channel="lc.merin" start="20261021130000 +0000" stop="20261021140000 +0000"><title>Weekend Sport</title><desc>Test programme for Merin Player.</desc></programme>
+  <programme channel="lc.merin" start="20261021140000 +0000" stop="20261021150000 +0000"><title>The Late Show</title><desc>Test programme for Merin Player.</desc></programme>
+  <programme channel="lc.merin" start="20261021150000 +0000" stop="20261021160000 +0000"><title>World Tonight</title><desc>Test programme for Merin Player.</desc></programme>
+  <programme channel="lc.merin" start="20261021160000 +0000" stop="20261021170000 +0000"><title>Cartoon Club</title><desc>Test programme for Merin Player.</desc></programme>
+  <programme channel="lc.merin" start="20261021170000 +0000" stop="20261021180000 +0000"><title>Nature Files</title><desc>Test programme for Merin Player.</desc></programme>
+  <programme channel="lc.merin" start="20261021180000 +0000" stop="20261021190000 +0000"><title>Studio Live</title><desc>Test programme for Merin Player.</desc></programme>
+  <programme channel="lc.merin" start="20261021190000 +0000" stop="20261021200000 +0000"><title>Top Twenty</title><desc>Test programme for Merin Player.</desc></programme>
+  <programme channel="lc.merin" start="20261021200000 +0000" stop="20261021210000 +0000"><title>Morning Edition</title><desc>Test programme for Merin Player.</desc></programme>
+  <programme channel="lc.merin" start="20261021210000 +0000" stop="20261021220000 +0000"><title>Market Watch</title><desc>Test programme for Merin Player.</desc></programme>
+  <programme channel="lc.merin" start="20261021220000 +0000" stop="20261021230000 +0000"><title>Garden Hour</title><desc>Test programme for Merin Player.</desc></programme>
+  <programme channel="lc.merin" start="20261021230000 +0000" stop="20261022000000 +0000"><title>Weekend Sport</title><desc>Test programme for Merin Player.</desc></programme>
+  <programme channel="lc.merin" start="20261022000000 +0000" stop="20261022010000 +0000"><title>The Late Show</title><desc>Test programme for Merin Player.</desc></programme>
+  <programme channel="lc.merin" start="20261022010000 +0000" stop="20261022020000 +0000"><title>World Tonight</title><desc>Test programme for Merin Player.</desc></programme>
+  <programme channel="lc.merin" start="20261022020000 +0000" stop="20261022030000 +0000"><title>Cartoon Club</title><desc>Test programme for Merin Player.</desc></programme>
+  <programme channel="lc.merin" start="20261022030000 +0000" stop="20261022040000 +0000"><title>Nature Files</title><desc>Test programme for Merin Player.</desc></programme>
+  <programme channel="lc.merin" start="20261022040000 +0000" stop="20261022050000 +0000"><title>Studio Live</title><desc>Test programme for Merin Player.</desc></programme>
+  <programme channel="lc.merin" start="20261022050000 +0000" stop="20261022060000 +0000"><title>Top Twenty</title><desc>Test programme for Merin Player.</desc></programme>
+  <programme channel="lc.merin" start="20261022060000 +0000" stop="20261022070000 +0000"><title>Morning Edition</title><desc>Test programme for Merin Player.</desc></programme>
+  <programme channel="lc.merin" start="20261022070000 +0000" stop="20261022080000 +0000"><title>Market Watch</title><desc>Test programme for Merin Player.</desc></programme>
+  <programme channel="lc.merin" start="20261022080000 +0000" stop="20261022090000 +0000"><title>Garden Hour</title><desc>Test programme for Merin Player.</desc></programme>
+  <programme channel="lc.merin" start="20261022090000 +0000" stop="20261022100000 +0000"><title>Weekend Sport</title><desc>Test programme for Merin Player.</desc></programme>
+  <programme channel="lc.merin" start="20261022100000 +0000" stop="20261022110000 +0000"><title>The Late Show</title><desc>Test programme for Merin Player.</desc></programme>
+  <programme channel="lc.merin" start="20261022110000 +0000" stop="20261022120000 +0000"><title>World Tonight</title><desc>Test programme for Merin Player.</desc></programme>
+  <programme channel="lc.merin" start="20261022120000 +0000" stop="20261022130000 +0000"><title>Cartoon Club</title><desc>Test programme for Merin Player.</desc></programme>
+  <programme channel="lc.merin" start="20261022130000 +0000" stop="20261022140000 +0000"><title>Nature Files</title><desc>Test programme for Merin Player.</desc></programme>
+  <programme channel="lc.merin" start="20261022140000 +0000" stop="20261022150000 +0000"><title>Studio Live</title><desc>Test programme for Merin Player.</desc></programme>
+  <programme channel="lc.merin" start="20261022150000 +0000" stop="20261022160000 +0000"><title>Top Twenty</title><desc>Test programme for Merin Player.</desc></programme>
+  <programme channel="td.merin" start="20261021040000 +0000" stop="20261021050000 +0000"><title>World Tonight</title><desc>Test programme for Merin Player.</desc></programme>
+  <programme channel="td.merin" start="20261021050000 +0000" stop="20261021060000 +0000"><title>Cartoon Club</title><desc>Test programme for Merin Player.</desc></programme>
+  <programme channel="td.merin" start="20261021060000 +0000" stop="20261021070000 +0000"><title>Nature Files</title><desc>Test programme for Merin Player.</desc></programme>
+  <programme channel="td.merin" start="20261021070000 +0000" stop="20261021080000 +0000"><title>Studio Live</title><desc>Test programme for Merin Player.</desc></programme>
+  <programme channel="td.merin" start="20261021080000 +0000" stop="20261021090000 +0000"><title>Top Twenty</title><desc>Test programme for Merin Player.</desc></programme>
+  <programme channel="td.merin" start="20261021090000 +0000" stop="20261021100000 +0000"><title>Morning Edition</title><desc>Test programme for Merin Player.</desc></programme>
+  <programme channel="td.merin" start="20261021100000 +0000" stop="20261021110000 +0000"><title>Market Watch</title><desc>Test programme for Merin Player.</desc></programme>
+  <programme channel="td.merin" start="20261021110000 +0000" stop="20261021120000 +0000"><title>Garden Hour</title><desc>Test programme for Merin Player.</desc></programme>
+  <programme channel="td.merin" start="20261021120000 +0000" stop="20261021130000 +0000"><title>Weekend Sport</title><desc>Test programme for Merin Player.</desc></programme>
+  <programme channel="td.merin" start="20261021130000 +0000" stop="20261021140000 +0000"><title>The Late Show</title><desc>Test programme for Merin Player.</desc></programme>
+  <programme channel="td.merin" start="20261021140000 +0000" stop="20261021150000 +0000"><title>World Tonight</title><desc>Test programme for Merin Player.</desc></programme>
+  <programme channel="td.merin" start="20261021150000 +0000" stop="20261021160000 +0000"><title>Cartoon Club</title><desc>Test programme for Merin Player.</desc></programme>
+  <programme channel="td.merin" start="20261021160000 +0000" stop="20261021170000 +0000"><title>Nature Files</title><desc>Test programme for Merin Player.</desc></programme>
+  <programme channel="td.merin" start="20261021170000 +0000" stop="20261021180000 +0000"><title>Studio Live</title><desc>Test programme for Merin Player.</desc></programme>
+  <programme channel="td.merin" start="20261021180000 +0000" stop="20261021190000 +0000"><title>Top Twenty</title><desc>Test programme for Merin Player.</desc></programme>
+  <programme channel="td.merin" start="20261021190000 +0000" stop="20261021200000 +0000"><title>Morning Edition</title><desc>Test programme for Merin Player.</desc></programme>
+  <programme channel="td.merin" start="20261021200000 +0000" stop="20261021210000 +0000"><title>Market Watch</title><desc>Test programme for Merin Player.</desc></programme>
+  <programme channel="td.merin" start="20261021210000 +0000" stop="20261021220000 +0000"><title>Garden Hour</title><desc>Test programme for Merin Player.</desc></programme>
+  <programme channel="td.merin" start="20261021220000 +0000" stop="20261021230000 +0000"><title>Weekend Sport</title><desc>Test programme for Merin Player.</desc></programme>
+  <programme channel="td.merin" start="20261021230000 +0000" stop="20261022000000 +0000"><title>The Late Show</title><desc>Test programme for Merin Player.</desc></programme>
+  <programme channel="td.merin" start="20261022000000 +0000" stop="20261022010000 +0000"><title>World Tonight</title><desc>Test programme for Merin Player.</desc></programme>
+  <programme channel="td.merin" start="20261022010000 +0000" stop="20261022020000 +0000"><title>Cartoon Club</title><desc>Test programme for Merin Player.</desc></programme>
+  <programme channel="td.merin" start="20261022020000 +0000" stop="20261022030000 +0000"><title>Nature Files</title><desc>Test programme for Merin Player.</desc></programme>
+  <programme channel="td.merin" start="20261022030000 +0000" stop="20261022040000 +0000"><title>Studio Live</title><desc>Test programme for Merin Player.</desc></programme>
+  <programme channel="td.merin" start="20261022040000 +0000" stop="20261022050000 +0000"><title>Top Twenty</title><desc>Test programme for Merin Player.</desc></programme>
+  <programme channel="td.merin" start="20261022050000 +0000" stop="20261022060000 +0000"><title>Morning Edition</title><desc>Test programme for Merin Player.</desc></programme>
+  <programme channel="td.merin" start="20261022060000 +0000" stop="20261022070000 +0000"><title>Market Watch</title><desc>Test programme for Merin Player.</desc></programme>
+  <programme channel="td.merin" start="20261022070000 +0000" stop="20261022080000 +0000"><title>Garden Hour</title><desc>Test programme for Merin Player.</desc></programme>
+  <programme channel="td.merin" start="20261022080000 +0000" stop="20261022090000 +0000"><title>Weekend Sport</title><desc>Test programme for Merin Player.</desc></programme>
+  <programme channel="td.merin" start="20261022090000 +0000" stop="20261022100000 +0000"><title>The Late Show</title><desc>Test programme for Merin Player.</desc></programme>
+  <programme channel="td.merin" start="20261022100000 +0000" stop="20261022110000 +0000"><title>World Tonight</title><desc>Test programme for Merin Player.</desc></programme>
+  <programme channel="td.merin" start="20261022110000 +0000" stop="20261022120000 +0000"><title>Cartoon Club</title><desc>Test programme for Merin Player.</desc></programme>
+  <programme channel="td.merin" start="20261022120000 +0000" stop="20261022130000 +0000"><title>Nature Files</title><desc>Test programme for Merin Player.</desc></programme>
+  <programme channel="td.merin" start="20261022130000 +0000" stop="20261022140000 +0000"><title>Studio Live</title><desc>Test programme for Merin Player.</desc></programme>
+  <programme channel="td.merin" start="20261022140000 +0000" stop="20261022150000 +0000"><title>Top Twenty</title><desc>Test programme for Merin Player.</desc></programme>
+  <programme channel="td.merin" start="20261022150000 +0000" stop="20261022160000 +0000"><title>Morning Edition</title><desc>Test programme for Merin Player.</desc></programme>
+  <programme channel="bt.merin" start="20261021040000 +0000" stop="20261021050000 +0000"><title>Cartoon Club</title><desc>Test programme for Merin Player.</desc></programme>
+  <programme channel="bt.merin" start="20261021050000 +0000" stop="20261021060000 +0000"><title>Nature Files</title><desc>Test programme for Merin Player.</desc></programme>
+  <programme channel="bt.merin" start="20261021060000 +0000" stop="20261021070000 +0000"><title>Studio Live</title><desc>Test programme for Merin Player.</desc></programme>
+  <programme channel="bt.merin" start="20261021070000 +0000" stop="20261021080000 +0000"><title>Top Twenty</title><desc>Test programme for Merin Player.</desc></programme>
+  <programme channel="bt.merin" start="20261021080000 +0000" stop="20261021090000 +0000"><title>Morning Edition</title><desc>Test programme for Merin Player.</desc></programme>
+  <programme channel="bt.merin" start="20261021090000 +0000" stop="20261021100000 +0000"><title>Market Watch</title><desc>Test programme for Merin Player.</desc></programme>
+  <programme channel="bt.merin" start="20261021100000 +0000" stop="20261021110000 +0000"><title>Garden Hour</title><desc>Test programme for Merin Player.</desc></programme>
+  <programme channel="bt.merin" start="20261021110000 +0000" stop="20261021120000 +0000"><title>Weekend Sport</title><desc>Test programme for Merin Player.</desc></programme>
+  <programme channel="bt.merin" start="20261021120000 +0000" stop="20261021130000 +0000"><title>The Late Show</title><desc>Test programme for Merin Player.</desc></programme>
+  <programme channel="bt.merin" start="20261021130000 +0000" stop="20261021140000 +0000"><title>World Tonight</title><desc>Test programme for Merin Player.</desc></programme>
+  <programme channel="bt.merin" start="20261021140000 +0000" stop="20261021150000 +0000"><title>Cartoon Club</title><desc>Test programme for Merin Player.</desc></programme>
+  <programme channel="bt.merin" start="20261021150000 +0000" stop="20261021160000 +0000"><title>Nature Files</title><desc>Test programme for Merin Player.</desc></programme>
+  <programme channel="bt.merin" start="20261021160000 +0000" stop="20261021170000 +0000"><title>Studio Live</title><desc>Test programme for Merin Player.</desc></programme>
+  <programme channel="bt.merin" start="20261021170000 +0000" stop="20261021180000 +0000"><title>Top Twenty</title><desc>Test programme for Merin Player.</desc></programme>
+  <programme channel="bt.merin" start="20261021180000 +0000" stop="20261021190000 +0000"><title>Morning Edition</title><desc>Test programme for Merin Player.</desc></programme>
+  <programme channel="bt.merin" start="20261021190000 +0000" stop="20261021200000 +0000"><title>Market Watch</title><desc>Test programme for Merin Player.</desc></programme>
+  <programme channel="bt.merin" start="20261021200000 +0000" stop="20261021210000 +0000"><title>Garden Hour</title><desc>Test programme for Merin Player.</desc></programme>
+  <programme channel="bt.merin" start="20261021210000 +0000" stop="20261021220000 +0000"><title>Weekend Sport</title><desc>Test programme for Merin Player.</desc></programme>
+  <programme channel="bt.merin" start="20261021220000 +0000" stop="20261021230000 +0000"><title>The Late Show</title><desc>Test programme for Merin Player.</desc></programme>
+  <programme channel="bt.merin" start="20261021230000 +0000" stop="20261022000000 +0000"><title>World Tonight</title><desc>Test programme for Merin Player.</desc></programme>
+  <programme channel="bt.merin" start="20261022000000 +0000" stop="20261022010000 +0000"><title>Cartoon Club</title><desc>Test programme for Merin Player.</desc></programme>
+  <programme channel="bt.merin" start="20261022010000 +0000" stop="20261022020000 +0000"><title>Nature Files</title><desc>Test programme for Merin Player.</desc></programme>
+  <programme channel="bt.merin" start="20261022020000 +0000" stop="20261022030000 +0000"><title>Studio Live</title><desc>Test programme for Merin Player.</desc></programme>
+  <programme channel="bt.merin" start="20261022030000 +0000" stop="20261022040000 +0000"><title>Top Twenty</title><desc>Test programme for Merin Player.</desc></programme>
+  <programme channel="bt.merin" start="20261022040000 +0000" stop="20261022050000 +0000"><title>Morning Edition</title><desc>Test programme for Merin Player.</desc></programme>
+  <programme channel="bt.merin" start="20261022050000 +0000" stop="20261022060000 +0000"><title>Market Watch</title><desc>Test programme for Merin Player.</desc></programme>
+  <programme channel="bt.merin" start="20261022060000 +0000" stop="20261022070000 +0000"><title>Garden Hour</title><desc>Test programme for Merin Player.</desc></programme>
+  <programme channel="bt.merin" start="20261022070000 +0000" stop="20261022080000 +0000"><title>Weekend Sport</title><desc>Test programme for Merin Player.</desc></programme>
+  <programme channel="bt.merin" start="20261022080000 +0000" stop="20261022090000 +0000"><title>The Late Show</title><desc>Test programme for Merin Player.</desc></programme>
+  <programme channel="bt.merin" start="20261022090000 +0000" stop="20261022100000 +0000"><title>World Tonight</title><desc>Test programme for Merin Player.</desc></programme>
+  <programme channel="bt.merin" start="20261022100000 +0000" stop="20261022110000 +0000"><title>Cartoon Club</title><desc>Test programme for Merin Player.</desc></programme>
+  <programme channel="bt.merin" start="20261022110000 +0000" stop="20261022120000 +0000"><title>Nature Files</title><desc>Test programme for Merin Player.</desc></programme>
+  <programme channel="bt.merin" start="20261022120000 +0000" stop="20261022130000 +0000"><title>Studio Live</title><desc>Test programme for Merin Player.</desc></programme>
+  <programme channel="bt.merin" start="20261022130000 +0000" stop="20261022140000 +0000"><title>Top Twenty</title><desc>Test programme for Merin Player.</desc></programme>
+  <programme channel="bt.merin" start="20261022140000 +0000" stop="20261022150000 +0000"><title>Morning Edition</title><desc>Test programme for Merin Player.</desc></programme>
+  <programme channel="bt.merin" start="20261022150000 +0000" stop="20261022160000 +0000"><title>Market Watch</title><desc>Test programme for Merin Player.</desc></programme>
+  <programme channel="ah.merin" start="20261021040000 +0000" stop="20261021050000 +0000"><title>Nature Files</title><desc>Test programme for Merin Player.</desc></programme>
+  <programme channel="ah.merin" start="20261021050000 +0000" stop="20261021060000 +0000"><title>Studio Live</title><desc>Test programme for Merin Player.</desc></programme>
+  <programme channel="ah.merin" start="20261021060000 +0000" stop="20261021070000 +0000"><title>Top Twenty</title><desc>Test programme for Merin Player.</desc></programme>
+  <programme channel="ah.merin" start="20261021070000 +0000" stop="20261021080000 +0000"><title>Morning Edition</title><desc>Test programme for Merin Player.</desc></programme>
+  <programme channel="ah.merin" start="20261021080000 +0000" stop="20261021090000 +0000"><title>Market Watch</title><desc>Test programme for Merin Player.</desc></programme>
+  <programme channel="ah.merin" start="20261021090000 +0000" stop="20261021100000 +0000"><title>Garden Hour</title><desc>Test programme for Merin Player.</desc></programme>
+  <programme channel="ah.merin" start="20261021100000 +0000" stop="20261021110000 +0000"><title>Weekend Sport</title><desc>Test programme for Merin Player.</desc></programme>
+  <programme channel="ah.merin" start="20261021110000 +0000" stop="20261021120000 +0000"><title>The Late Show</title><desc>Test programme for Merin Player.</desc></programme>
+  <programme channel="ah.merin" start="20261021120000 +0000" stop="20261021130000 +0000"><title>World Tonight</title><desc>Test programme for Merin Player.</desc></programme>
+  <programme channel="ah.merin" start="20261021130000 +0000" stop="20261021140000 +0000"><title>Cartoon Club</title><desc>Test programme for Merin Player.</desc></programme>
+  <programme channel="ah.merin" start="20261021140000 +0000" stop="20261021150000 +0000"><title>Nature Files</title><desc>Test programme for Merin Player.</desc></programme>
+  <programme channel="ah.merin" start="20261021150000 +0000" stop="20261021160000 +0000"><title>Studio Live</title><desc>Test programme for Merin Player.</desc></programme>
+  <programme channel="ah.merin" start="20261021160000 +0000" stop="20261021170000 +0000"><title>Top Twenty</title><desc>Test programme for Merin Player.</desc></programme>
+  <programme channel="ah.merin" start="20261021170000 +0000" stop="20261021180000 +0000"><title>Morning Edition</title><desc>Test programme for Merin Player.</desc></programme>
+  <programme channel="ah.merin" start="20261021180000 +0000" stop="20261021190000 +0000"><title>Market Watch</title><desc>Test programme for Merin Player.</desc></programme>
+  <programme channel="ah.merin" start="20261021190000 +0000" stop="20261021200000 +0000"><title>Garden Hour</title><desc>Test programme for Merin Player.</desc></programme>
+  <programme channel="ah.merin" start="20261021200000 +0000" stop="20261021210000 +0000"><title>Weekend Sport</title><desc>Test programme for Merin Player.</desc></programme>
+  <programme channel="ah.merin" start="20261021210000 +0000" stop="20261021220000 +0000"><title>The Late Show</title><desc>Test programme for Merin Player.</desc></programme>
+  <programme channel="ah.merin" start="20261021220000 +0000" stop="20261021230000 +0000"><title>World Tonight</title><desc>Test programme for Merin Player.</desc></programme>
+  <programme channel="ah.merin" start="20261021230000 +0000" stop="20261022000000 +0000"><title>Cartoon Club</title><desc>Test programme for Merin Player.</desc></programme>
+  <programme channel="ah.merin" start="20261022000000 +0000" stop="20261022010000 +0000"><title>Nature Files</title><desc>Test programme for Merin Player.</desc></programme>
+  <programme channel="ah.merin" start="20261022010000 +0000" stop="20261022020000 +0000"><title>Studio Live</title><desc>Test programme for Merin Player.</desc></programme>
+  <programme channel="ah.merin" start="20261022020000 +0000" stop="20261022030000 +0000"><title>Top Twenty</title><desc>Test programme for Merin Player.</desc></programme>
+  <programme channel="ah.merin" start="20261022030000 +0000" stop="20261022040000 +0000"><title>Morning Edition</title><desc>Test programme for Merin Player.</desc></programme>
+  <programme channel="ah.merin" start="20261022040000 +0000" stop="20261022050000 +0000"><title>Market Watch</title><desc>Test programme for Merin Player.</desc></programme>
+  <programme channel="ah.merin" start="20261022050000 +0000" stop="20261022060000 +0000"><title>Garden Hour</title><desc>Test programme for Merin Player.</desc></programme>
+  <programme channel="ah.merin" start="20261022060000 +0000" stop="20261022070000 +0000"><title>Weekend Sport</title><desc>Test programme for Merin Player.</desc></programme>
+  <programme channel="ah.merin" start="20261022070000 +0000" stop="20261022080000 +0000"><title>The Late Show</title><desc>Test programme for Merin Player.</desc></programme>
+  <programme channel="ah.merin" start="20261022080000 +0000" stop="20261022090000 +0000"><title>World Tonight</title><desc>Test programme for Merin Player.</desc></programme>
+  <programme channel="ah.merin" start="20261022090000 +0000" stop="20261022100000 +0000"><title>Cartoon Club</title><desc>Test programme for Merin Player.</desc></programme>
+  <programme channel="ah.merin" start="20261022100000 +0000" stop="20261022110000 +0000"><title>Nature Files</title><desc>Test programme for Merin Player.</desc></programme>
+  <programme channel="ah.merin" start="20261022110000 +0000" stop="20261022120000 +0000"><title>Studio Live</title><desc>Test programme for Merin Player.</desc></programme>
+  <programme channel="ah.merin" start="20261022120000 +0000" stop="20261022130000 +0000"><title>Top Twenty</title><desc>Test programme for Merin Player.</desc></programme>
+  <programme channel="ah.merin" start="20261022130000 +0000" stop="20261022140000 +0000"><title>Morning Edition</title><desc>Test programme for Merin Player.</desc></programme>
+  <programme channel="ah.merin" start="20261022140000 +0000" stop="20261022150000 +0000"><title>Market Watch</title><desc>Test programme for Merin Player.</desc></programme>
+  <programme channel="ah.merin" start="20261022150000 +0000" stop="20261022160000 +0000"><title>Garden Hour</title><desc>Test programme for Merin Player.</desc></programme>
+  <programme channel="ks.merin" start="20261021040000 +0000" stop="20261021050000 +0000"><title>Studio Live</title><desc>Test programme for Merin Player.</desc></programme>
+  <programme channel="ks.merin" start="20261021050000 +0000" stop="20261021060000 +0000"><title>Top Twenty</title><desc>Test programme for Merin Player.</desc></programme>
+  <programme channel="ks.merin" start="20261021060000 +0000" stop="20261021070000 +0000"><title>Morning Edition</title><desc>Test programme for Merin Player.</desc></programme>
+  <programme channel="ks.merin" start="20261021070000 +0000" stop="20261021080000 +0000"><title>Market Watch</title><desc>Test programme for Merin Player.</desc></programme>
+  <programme channel="ks.merin" start="20261021080000 +0000" stop="20261021090000 +0000"><title>Garden Hour</title><desc>Test programme for Merin Player.</desc></programme>
+  <programme channel="ks.merin" start="20261021090000 +0000" stop="20261021100000 +0000"><title>Weekend Sport</title><desc>Test programme for Merin Player.</desc></programme>
+  <programme channel="ks.merin" start="20261021100000 +0000" stop="20261021110000 +0000"><title>The Late Show</title><desc>Test programme for Merin Player.</desc></programme>
+  <programme channel="ks.merin" start="20261021110000 +0000" stop="20261021120000 +0000"><title>World Tonight</title><desc>Test programme for Merin Player.</desc></programme>
+  <programme channel="ks.merin" start="20261021120000 +0000" stop="20261021130000 +0000"><title>Cartoon Club</title><desc>Test programme for Merin Player.</desc></programme>
+  <programme channel="ks.merin" start="20261021130000 +0000" stop="20261021140000 +0000"><title>Nature Files</title><desc>Test programme for Merin Player.</desc></programme>
+  <programme channel="ks.merin" start="20261021140000 +0000" stop="20261021150000 +0000"><title>Studio Live</title><desc>Test programme for Merin Player.</desc></programme>
+  <programme channel="ks.merin" start="20261021150000 +0000" stop="20261021160000 +0000"><title>Top Twenty</title><desc>Test programme for Merin Player.</desc></programme>
+  <programme channel="ks.merin" start="20261021160000 +0000" stop="20261021170000 +0000"><title>Morning Edition</title><desc>Test programme for Merin Player.</desc></programme>
+  <programme channel="ks.merin" start="20261021170000 +0000" stop="20261021180000 +0000"><title>Market Watch</title><desc>Test programme for Merin Player.</desc></programme>
+  <programme channel="ks.merin" start="20261021180000 +0000" stop="20261021190000 +0000"><title>Garden Hour</title><desc>Test programme for Merin Player.</desc></programme>
+  <programme channel="ks.merin" start="20261021190000 +0000" stop="20261021200000 +0000"><title>Weekend Sport</title><desc>Test programme for Merin Player.</desc></programme>
+  <programme channel="ks.merin" start="20261021200000 +0000" stop="20261021210000 +0000"><title>The Late Show</title><desc>Test programme for Merin Player.</desc></programme>
+  <programme channel="ks.merin" start="20261021210000 +0000" stop="20261021220000 +0000"><title>World Tonight</title><desc>Test programme for Merin Player.</desc></programme>
+  <programme channel="ks.merin" start="20261021220000 +0000" stop="20261021230000 +0000"><title>Cartoon Club</title><desc>Test programme for Merin Player.</desc></programme>
+  <programme channel="ks.merin" start="20261021230000 +0000" stop="20261022000000 +0000"><title>Nature Files</title><desc>Test programme for Merin Player.</desc></programme>
+  <programme channel="ks.merin" start="20261022000000 +0000" stop="20261022010000 +0000"><title>Studio Live</title><desc>Test programme for Merin Player.</desc></programme>
+  <programme channel="ks.merin" start="20261022010000 +0000" stop="20261022020000 +0000"><title>Top Twenty</title><desc>Test programme for Merin Player.</desc></programme>
+  <programme channel="ks.merin" start="20261022020000 +0000" stop="20261022030000 +0000"><title>Morning Edition</title><desc>Test programme for Merin Player.</desc></programme>
+  <programme channel="ks.merin" start="20261022030000 +0000" stop="20261022040000 +0000"><title>Market Watch</title><desc>Test programme for Merin Player.</desc></programme>
+  <programme channel="ks.merin" start="20261022040000 +0000" stop="20261022050000 +0000"><title>Garden Hour</title><desc>Test programme for Merin Player.</desc></programme>
+  <programme channel="ks.merin" start="20261022050000 +0000" stop="20261022060000 +0000"><title>Weekend Sport</title><desc>Test programme for Merin Player.</desc></programme>
+  <programme channel="ks.merin" start="20261022060000 +0000" stop="20261022070000 +0000"><title>The Late Show</title><desc>Test programme for Merin Player.</desc></programme>
+  <programme channel="ks.merin" start="20261022070000 +0000" stop="20261022080000 +0000"><title>World Tonight</title><desc>Test programme for Merin Player.</desc></programme>
+  <programme channel="ks.merin" start="20261022080000 +0000" stop="20261022090000 +0000"><title>Cartoon Club</title><desc>Test programme for Merin Player.</desc></programme>
+  <programme channel="ks.merin" start="20261022090000 +0000" stop="20261022100000 +0000"><title>Nature Files</title><desc>Test programme for Merin Player.</desc></programme>
+  <programme channel="ks.merin" start="20261022100000 +0000" stop="20261022110000 +0000"><title>Studio Live</title><desc>Test programme for Merin Player.</desc></programme>
+  <programme channel="ks.merin" start="20261022110000 +0000" stop="20261022120000 +0000"><title>Top Twenty</title><desc>Test programme for Merin Player.</desc></programme>
+  <programme channel="ks.merin" start="20261022120000 +0000" stop="20261022130000 +0000"><title>Morning Edition</title><desc>Test programme for Merin Player.</desc></programme>
+  <programme channel="ks.merin" start="20261022130000 +0000" stop="20261022140000 +0000"><title>Market Watch</title><desc>Test programme for Merin Player.</desc></programme>
+  <programme channel="ks.merin" start="20261022140000 +0000" stop="20261022150000 +0000"><title>Garden Hour</title><desc>Test programme for Merin Player.</desc></programme>
+  <programme channel="ks.merin" start="20261022150000 +0000" stop="20261022160000 +0000"><title>Weekend Sport</title><desc>Test programme for Merin Player.</desc></programme>
+  <programme channel="tn.merin" start="20261021040000 +0000" stop="20261021050000 +0000"><title>Top Twenty</title><desc>Test programme for Merin Player.</desc></programme>
+  <programme channel="tn.merin" start="20261021050000 +0000" stop="20261021060000 +0000"><title>Morning Edition</title><desc>Test programme for Merin Player.</desc></programme>
+  <programme channel="tn.merin" start="20261021060000 +0000" stop="20261021070000 +0000"><title>Market Watch</title><desc>Test programme for Merin Player.</desc></programme>
+  <programme channel="tn.merin" start="20261021070000 +0000" stop="20261021080000 +0000"><title>Garden Hour</title><desc>Test programme for Merin Player.</desc></programme>
+  <programme channel="tn.merin" start="20261021080000 +0000" stop="20261021090000 +0000"><title>Weekend Sport</title><desc>Test programme for Merin Player.</desc></programme>
+  <programme channel="tn.merin" start="20261021090000 +0000" stop="20261021100000 +0000"><title>The Late Show</title><desc>Test programme for Merin Player.</desc></programme>
+  <programme channel="tn.merin" start="20261021100000 +0000" stop="20261021110000 +0000"><title>World Tonight</title><desc>Test programme for Merin Player.</desc></programme>
+  <programme channel="tn.merin" start="20261021110000 +0000" stop="20261021120000 +0000"><title>Cartoon Club</title><desc>Test programme for Merin Player.</desc></programme>
+  <programme channel="tn.merin" start="20261021120000 +0000" stop="20261021130000 +0000"><title>Nature Files</title><desc>Test programme for Merin Player.</desc></programme>
+  <programme channel="tn.merin" start="20261021130000 +0000" stop="20261021140000 +0000"><title>Studio Live</title><desc>Test programme for Merin Player.</desc></programme>
+  <programme channel="tn.merin" start="20261021140000 +0000" stop="20261021150000 +0000"><title>Top Twenty</title><desc>Test programme for Merin Player.</desc></programme>
+  <programme channel="tn.merin" start="20261021150000 +0000" stop="20261021160000 +0000"><title>Morning Edition</title><desc>Test programme for Merin Player.</desc></programme>
+  <programme channel="tn.merin" start="20261021160000 +0000" stop="20261021170000 +0000"><title>Market Watch</title><desc>Test programme for Merin Player.</desc></programme>
+  <programme channel="tn.merin" start="20261021170000 +0000" stop="20261021180000 +0000"><title>Garden Hour</title><desc>Test programme for Merin Player.</desc></programme>
+  <programme channel="tn.merin" start="20261021180000 +0000" stop="20261021190000 +0000"><title>Weekend Sport</title><desc>Test programme for Merin Player.</desc></programme>
+  <programme channel="tn.merin" start="20261021190000 +0000" stop="20261021200000 +0000"><title>The Late Show</title><desc>Test programme for Merin Player.</desc></programme>
+  <programme channel="tn.merin" start="20261021200000 +0000" stop="20261021210000 +0000"><title>World Tonight</title><desc>Test programme for Merin Player.</desc></programme>
+  <programme channel="tn.merin" start="20261021210000 +0000" stop="20261021220000 +0000"><title>Cartoon Club</title><desc>Test programme for Merin Player.</desc></programme>
+  <programme channel="tn.merin" start="20261021220000 +0000" stop="20261021230000 +0000"><title>Nature Files</title><desc>Test programme for Merin Player.</desc></programme>
+  <programme channel="tn.merin" start="20261021230000 +0000" stop="20261022000000 +0000"><title>Studio Live</title><desc>Test programme for Merin Player.</desc></programme>
+  <programme channel="tn.merin" start="20261022000000 +0000" stop="20261022010000 +0000"><title>Top Twenty</title><desc>Test programme for Merin Player.</desc></programme>
+  <programme channel="tn.merin" start="20261022010000 +0000" stop="20261022020000 +0000"><title>Morning Edition</title><desc>Test programme for Merin Player.</desc></programme>
+  <programme channel="tn.merin" start="20261022020000 +0000" stop="20261022030000 +0000"><title>Market Watch</title><desc>Test programme for Merin Player.</desc></programme>
+  <programme channel="tn.merin" start="20261022030000 +0000" stop="20261022040000 +0000"><title>Garden Hour</title><desc>Test programme for Merin Player.</desc></programme>
+  <programme channel="tn.merin" start="20261022040000 +0000" stop="20261022050000 +0000"><title>Weekend Sport</title><desc>Test programme for Merin Player.</desc></programme>
+  <programme channel="tn.merin" start="20261022050000 +0000" stop="20261022060000 +0000"><title>The Late Show</title><desc>Test programme for Merin Player.</desc></programme>
+  <programme channel="tn.merin" start="20261022060000 +0000" stop="20261022070000 +0000"><title>World Tonight</title><desc>Test programme for Merin Player.</desc></programme>
+  <programme channel="tn.merin" start="20261022070000 +0000" stop="20261022080000 +0000"><title>Cartoon Club</title><desc>Test programme for Merin Player.</desc></programme>
+  <programme channel="tn.merin" start="20261022080000 +0000" stop="20261022090000 +0000"><title>Nature Files</title><desc>Test programme for Merin Player.</desc></programme>
+  <programme channel="tn.merin" start="20261022090000 +0000" stop="20261022100000 +0000"><title>Studio Live</title><desc>Test programme for Merin Player.</desc></programme>
+  <programme channel="tn.merin" start="20261022100000 +0000" stop="20261022110000 +0000"><title>Top Twenty</title><desc>Test programme for Merin Player.</desc></programme>
+  <programme channel="tn.merin" start="20261022110000 +0000" stop="20261022120000 +0000"><title>Morning Edition</title><desc>Test programme for Merin Player.</desc></programme>
+  <programme channel="tn.merin" start="20261022120000 +0000" stop="20261022130000 +0000"><title>Market Watch</title><desc>Test programme for Merin Player.</desc></programme>
+  <programme channel="tn.merin" start="20261022130000 +0000" stop="20261022140000 +0000"><title>Garden Hour</title><desc>Test programme for Merin Player.</desc></programme>
+  <programme channel="tn.merin" start="20261022140000 +0000" stop="20261022150000 +0000"><title>Weekend Sport</title><desc>Test programme for Merin Player.</desc></programme>
+  <programme channel="tn.merin" start="20261022150000 +0000" stop="20261022160000 +0000"><title>The Late Show</title><desc>Test programme for Merin Player.</desc></programme>
+  <programme channel="pk.merin" start="20261021040000 +0000" stop="20261021050000 +0000"><title>Morning Edition</title><desc>Test programme for Merin Player.</desc></programme>
+  <programme channel="pk.merin" start="20261021050000 +0000" stop="20261021060000 +0000"><title>Market Watch</title><desc>Test programme for Merin Player.</desc></programme>
+  <programme channel="pk.merin" start="20261021060000 +0000" stop="20261021070000 +0000"><title>Garden Hour</title><desc>Test programme for Merin Player.</desc></programme>
+  <programme channel="pk.merin" start="20261021070000 +0000" stop="20261021080000 +0000"><title>Weekend Sport</title><desc>Test programme for Merin Player.</desc></programme>
+  <programme channel="pk.merin" start="20261021080000 +0000" stop="20261021090000 +0000"><title>The Late Show</title><desc>Test programme for Merin Player.</desc></programme>
+  <programme channel="pk.merin" start="20261021090000 +0000" stop="20261021100000 +0000"><title>World Tonight</title><desc>Test programme for Merin Player.</desc></programme>
+  <programme channel="pk.merin" start="20261021100000 +0000" stop="20261021110000 +0000"><title>Cartoon Club</title><desc>Test programme for Merin Player.</desc></programme>
+  <programme channel="pk.merin" start="20261021110000 +0000" stop="20261021120000 +0000"><title>Nature Files</title><desc>Test programme for Merin Player.</desc></programme>
+  <programme channel="pk.merin" start="20261021120000 +0000" stop="20261021130000 +0000"><title>Studio Live</title><desc>Test programme for Merin Player.</desc></programme>
+  <programme channel="pk.merin" start="20261021130000 +0000" stop="20261021140000 +0000"><title>Top Twenty</title><desc>Test programme for Merin Player.</desc></programme>
+  <programme channel="pk.merin" start="20261021140000 +0000" stop="20261021150000 +0000"><title>Morning Edition</title><desc>Test programme for Merin Player.</desc></programme>
+  <programme channel="pk.merin" start="20261021150000 +0000" stop="20261021160000 +0000"><title>Market Watch</title><desc>Test programme for Merin Player.</desc></programme>
+  <programme channel="pk.merin" start="20261021160000 +0000" stop="20261021170000 +0000"><title>Garden Hour</title><desc>Test programme for Merin Player.</desc></programme>
+  <programme channel="pk.merin" start="20261021170000 +0000" stop="20261021180000 +0000"><title>Weekend Sport</title><desc>Test programme for Merin Player.</desc></programme>
+  <programme channel="pk.merin" start="20261021180000 +0000" stop="20261021190000 +0000"><title>The Late Show</title><desc>Test programme for Merin Player.</desc></programme>
+  <programme channel="pk.merin" start="20261021190000 +0000" stop="20261021200000 +0000"><title>World Tonight</title><desc>Test programme for Merin Player.</desc></programme>
+  <programme channel="pk.merin" start="20261021200000 +0000" stop="20261021210000 +0000"><title>Cartoon Club</title><desc>Test programme for Merin Player.</desc></programme>
+  <programme channel="pk.merin" start="20261021210000 +0000" stop="20261021220000 +0000"><title>Nature Files</title><desc>Test programme for Merin Player.</desc></programme>
+  <programme channel="pk.merin" start="20261021220000 +0000" stop="20261021230000 +0000"><title>Studio Live</title><desc>Test programme for Merin Player.</desc></programme>
+  <programme channel="pk.merin" start="20261021230000 +0000" stop="20261022000000 +0000"><title>Top Twenty</title><desc>Test programme for Merin Player.</desc></programme>
+  <programme channel="pk.merin" start="20261022000000 +0000" stop="20261022010000 +0000"><title>Morning Edition</title><desc>Test programme for Merin Player.</desc></programme>
+  <programme channel="pk.merin" start="20261022010000 +0000" stop="20261022020000 +0000"><title>Market Watch</title><desc>Test programme for Merin Player.</desc></programme>
+  <programme channel="pk.merin" start="20261022020000 +0000" stop="20261022030000 +0000"><title>Garden Hour</title><desc>Test programme for Merin Player.</desc></programme>
+  <programme channel="pk.merin" start="20261022030000 +0000" stop="20261022040000 +0000"><title>Weekend Sport</title><desc>Test programme for Merin Player.</desc></programme>
+  <programme channel="pk.merin" start="20261022040000 +0000" stop="20261022050000 +0000"><title>The Late Show</title><desc>Test programme for Merin Player.</desc></programme>
+  <programme channel="pk.merin" start="20261022050000 +0000" stop="20261022060000 +0000"><title>World Tonight</title><desc>Test programme for Merin Player.</desc></programme>
+  <programme channel="pk.merin" start="20261022060000 +0000" stop="20261022070000 +0000"><title>Cartoon Club</title><desc>Test programme for Merin Player.</desc></programme>
+  <programme channel="pk.merin" start="20261022070000 +0000" stop="20261022080000 +0000"><title>Nature Files</title><desc>Test programme for Merin Player.</desc></programme>
+  <programme channel="pk.merin" start="20261022080000 +0000" stop="20261022090000 +0000"><title>Studio Live</title><desc>Test programme for Merin Player.</desc></programme>
+  <programme channel="pk.merin" start="20261022090000 +0000" stop="20261022100000 +0000"><title>Top Twenty</title><desc>Test programme for Merin Player.</desc></programme>
+  <programme channel="pk.merin" start="20261022100000 +0000" stop="20261022110000 +0000"><title>Morning Edition</title><desc>Test programme for Merin Player.</desc></programme>
+  <programme channel="pk.merin" start="20261022110000 +0000" stop="20261022120000 +0000"><title>Market Watch</title><desc>Test programme for Merin Player.</desc></programme>
+  <programme channel="pk.merin" start="20261022120000 +0000" stop="20261022130000 +0000"><title>Garden Hour</title><desc>Test programme for Merin Player.</desc></programme>
+  <programme channel="pk.merin" start="20261022130000 +0000" stop="20261022140000 +0000"><title>Weekend Sport</title><desc>Test programme for Merin Player.</desc></programme>
+  <programme channel="pk.merin" start="20261022140000 +0000" stop="20261022150000 +0000"><title>The Late Show</title><desc>Test programme for Merin Player.</desc></programme>
+  <programme channel="pk.merin" start="20261022150000 +0000" stop="20261022160000 +0000"><title>World Tonight</title><desc>Test programme for Merin Player.</desc></programme>
+  <programme channel="as.merin" start="20261021040000 +0000" stop="20261021050000 +0000"><title>Market Watch</title><desc>Test programme for Merin Player.</desc></programme>
+  <programme channel="as.merin" start="20261021050000 +0000" stop="20261021060000 +0000"><title>Garden Hour</title><desc>Test programme for Merin Player.</desc></programme>
+  <programme channel="as.merin" start="20261021060000 +0000" stop="20261021070000 +0000"><title>Weekend Sport</title><desc>Test programme for Merin Player.</desc></programme>
+  <programme channel="as.merin" start="20261021070000 +0000" stop="20261021080000 +0000"><title>The Late Show</title><desc>Test programme for Merin Player.</desc></programme>
+  <programme channel="as.merin" start="20261021080000 +0000" stop="20261021090000 +0000"><title>World Tonight</title><desc>Test programme for Merin Player.</desc></programme>
+  <programme channel="as.merin" start="20261021090000 +0000" stop="20261021100000 +0000"><title>Cartoon Club</title><desc>Test programme for Merin Player.</desc></programme>
+  <programme channel="as.merin" start="20261021100000 +0000" stop="20261021110000 +0000"><title>Nature Files</title><desc>Test programme for Merin Player.</desc></programme>
+  <programme channel="as.merin" start="20261021110000 +0000" stop="20261021120000 +0000"><title>Studio Live</title><desc>Test programme for Merin Player.</desc></programme>
+  <programme channel="as.merin" start="20261021120000 +0000" stop="20261021130000 +0000"><title>Top Twenty</title><desc>Test programme for Merin Player.</desc></programme>
+  <programme channel="as.merin" start="20261021130000 +0000" stop="20261021140000 +0000"><title>Morning Edition</title><desc>Test programme for Merin Player.</desc></programme>
+  <programme channel="as.merin" start="20261021140000 +0000" stop="20261021150000 +0000"><title>Market Watch</title><desc>Test programme for Merin Player.</desc></programme>
+  <programme channel="as.merin" start="20261021150000 +0000" stop="20261021160000 +0000"><title>Garden Hour</title><desc>Test programme for Merin Player.</desc></programme>
+  <programme channel="as.merin" start="20261021160000 +0000" stop="20261021170000 +0000"><title>Weekend Sport</title><desc>Test programme for Merin Player.</desc></programme>
+  <programme channel="as.merin" start="20261021170000 +0000" stop="20261021180000 +0000"><title>The Late Show</title><desc>Test programme for Merin Player.</desc></programme>
+  <programme channel="as.merin" start="20261021180000 +0000" stop="20261021190000 +0000"><title>World Tonight</title><desc>Test programme for Merin Player.</desc></programme>
+  <programme channel="as.merin" start="20261021190000 +0000" stop="20261021200000 +0000"><title>Cartoon Club</title><desc>Test programme for Merin Player.</desc></programme>
+  <programme channel="as.merin" start="20261021200000 +0000" stop="20261021210000 +0000"><title>Nature Files</title><desc>Test programme for Merin Player.</desc></programme>
+  <programme channel="as.merin" start="20261021210000 +0000" stop="20261021220000 +0000"><title>Studio Live</title><desc>Test programme for Merin Player.</desc></programme>
+  <programme channel="as.merin" start="20261021220000 +0000" stop="20261021230000 +0000"><title>Top Twenty</title><desc>Test programme for Merin Player.</desc></programme>
+  <programme channel="as.merin" start="20261021230000 +0000" stop="20261022000000 +0000"><title>Morning Edition</title><desc>Test programme for Merin Player.</desc></programme>
+  <programme channel="as.merin" start="20261022000000 +0000" stop="20261022010000 +0000"><title>Market Watch</title><desc>Test programme for Merin Player.</desc></programme>
+  <programme channel="as.merin" start="20261022010000 +0000" stop="20261022020000 +0000"><title>Garden Hour</title><desc>Test programme for Merin Player.</desc></programme>
+  <programme channel="as.merin" start="20261022020000 +0000" stop="20261022030000 +0000"><title>Weekend Sport</title><desc>Test programme for Merin Player.</desc></programme>
+  <programme channel="as.merin" start="20261022030000 +0000" stop="20261022040000 +0000"><title>The Late Show</title><desc>Test programme for Merin Player.</desc></programme>
+  <programme channel="as.merin" start="20261022040000 +0000" stop="20261022050000 +0000"><title>World Tonight</title><desc>Test programme for Merin Player.</desc></programme>
+  <programme channel="as.merin" start="20261022050000 +0000" stop="20261022060000 +0000"><title>Cartoon Club</title><desc>Test programme for Merin Player.</desc></programme>
+  <programme channel="as.merin" start="20261022060000 +0000" stop="20261022070000 +0000"><title>Nature Files</title><desc>Test programme for Merin Player.</desc></programme>
+  <programme channel="as.merin" start="20261022070000 +0000" stop="20261022080000 +0000"><title>Studio Live</title><desc>Test programme for Merin Player.</desc></programme>
+  <programme channel="as.merin" start="20261022080000 +0000" stop="20261022090000 +0000"><title>Top Twenty</title><desc>Test programme for Merin Player.</desc></programme>
+  <programme channel="as.merin" start="20261022090000 +0000" stop="20261022100000 +0000"><title>Morning Edition</title><desc>Test programme for Merin Player.</desc></programme>
+  <programme channel="as.merin" start="20261022100000 +0000" stop="20261022110000 +0000"><title>Market Watch</title><desc>Test programme for Merin Player.</desc></programme>
+  <programme channel="as.merin" start="20261022110000 +0000" stop="20261022120000 +0000"><title>Garden Hour</title><desc>Test programme for Merin Player.</desc></programme>
+  <programme channel="as.merin" start="20261022120000 +0000" stop="20261022130000 +0000"><title>Weekend Sport</title><desc>Test programme for Merin Player.</desc></programme>
+  <programme channel="as.merin" start="20261022130000 +0000" stop="20261022140000 +0000"><title>The Late Show</title><desc>Test programme for Merin Player.</desc></programme>
+  <programme channel="as.merin" start="20261022140000 +0000" stop="20261022150000 +0000"><title>World Tonight</title><desc>Test programme for Merin Player.</desc></programme>
+  <programme channel="as.merin" start="20261022150000 +0000" stop="20261022160000 +0000"><title>Cartoon Club</title><desc>Test programme for Merin Player.</desc></programme>
+</tv>

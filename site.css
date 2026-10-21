@@ -1,0 +1,29 @@
+@font-face { font-family: Figtree; font-weight: 400; src: url(fonts/figtree-latin-400-normal.woff2) format("woff2"); }
+@font-face { font-family: Figtree; font-weight: 400; src: url(fonts/figtree-latin-ext-400-normal.woff2) format("woff2"); unicode-range: U+0100-024F; }
+@font-face { font-family: Figtree; font-weight: 600; src: url(fonts/figtree-latin-600-normal.woff2) format("woff2"); }
+@font-face { font-family: Figtree; font-weight: 700; src: url(fonts/figtree-latin-700-normal.woff2) format("woff2"); }
+:root { --bg: #0d0e12; --panel: #15171d; --line: rgba(255,255,255,.08); --text: #f4f1ea; --muted: #a3a5ae; --dim: #6e717c; --accent: #ff7a45; }
+* { box-sizing: border-box; }
+html { background: var(--bg); }
+body { margin: 0; background: var(--bg); color: var(--text); font: 17px/1.65 Figtree, -apple-system, "Segoe UI", Roboto, sans-serif; -webkit-font-smoothing: antialiased; }
+main { max-width: 760px; margin: 0 auto; padding: 56px 24px 96px; }
+header.top { display: flex; align-items: center; gap: 14px; margin-bottom: 56px; }
+header.top img { width: 40px; height: 40px; border-radius: 10px; }
+header.top a { color: var(--text); text-decoration: none; font-weight: 700; font-size: 22px; letter-spacing: -0.01em; }
+header.top nav { margin-left: auto; display: flex; gap: 20px; font-size: 15px; }
+header.top nav a { color: var(--muted); font-weight: 600; font-size: 15px; }
+header.top nav a:hover, header.top nav a[aria-current] { color: var(--text); }
+h1 { font-size: 44px; line-height: 1.12; letter-spacing: -0.02em; margin: 0 0 18px; }
+h2 { font-size: 24px; letter-spacing: -0.01em; margin: 48px 0 12px; }
+h3 { font-size: 18px; margin: 28px 0 6px; }
+p, li { color: #d6d3cc; }
+.lead { font-size: 20px; color: var(--muted); margin: 0 0 8px; }
+a { color: var(--accent); }
+ol, ul { padding-left: 22px; }
+li { margin: 6px 0; }
+code, .url { font-family: ui-monospace, SFMono-Regular, Menlo, monospace; font-size: 14.5px; }
+.url { display: block; padding: 14px 16px; margin: 10px 0 4px; background: var(--panel); border: 1px solid var(--line); border-radius: 12px; color: var(--text); word-break: break-all; }
+.note { padding: 16px 18px; border-radius: 14px; background: var(--panel); border: 1px solid var(--line); color: var(--muted); }
+.muted { color: var(--dim); font-size: 14px; }
+footer { margin-top: 72px; padding-top: 24px; border-top: 1px solid var(--line); color: var(--dim); font-size: 14px; }
+@media (max-width: 560px) { h1 { font-size: 34px; } header.top nav { gap: 14px; } main { padding-top: 32px; } }
